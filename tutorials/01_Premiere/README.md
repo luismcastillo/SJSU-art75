@@ -129,6 +129,108 @@ Here is [a link](https://helpx.adobe.com/premiere-pro/using/default-keyboard-sho
 
 <br>
 <br>
+<br>
+
+## ▼△▼△▼ Getting Started with Premiere
+
+#### ▼ Open the Program
+
+![Open the Program](assets/1_Premiere_OpenProgram.png)
+
+* When beginning a new project, choose new project.
+* Route the Location to your Premiere-Projects folder in your Video Project folder
+* In the next window, name your project
+* Display format: Timecode
+* Audio: Audio Samples
+* Capture: DV (HDV is more compressed)
+* Scratch Disks and Ingest Settings: Keep default
+
+#### ▼ Set Up the Workspace
+
+![Set Up Workspace](assets/2_Premiere_SetUpWorkspace.png)
+
+* Once the workspace is open, go to the ‘Editing’ interface. You can open new tabs in ‘Window’
+
+#### ▼ What is the Workspace?
+
+![ Workspace](assets/3_Premiere_WhatIsWorkspace.png)
+
+* The Editing Workspace is made up of four main windows: Source Monitor, Program Monitor, Timeline, Tool Palette, Project Window, and Audio Meters
+
+#### ▼ Import Footage
+
+![Import](assets/4_Premiere_Import.png)
+
+* From the Media Browser in the Project Window, right click in the window (or Cmd I/Ctrl I) and select ‘Import” and locate footage on your computer
+* Once footage is in the Media Browser you can hover over it to make sure it is the footage you want
+* Footage is now in the ‘Media Bin’
+* Double click on footage and it will show in the Source Monitor
+
+#### ▼ View and Organize Footage
+
+![Footage](assets/5_Premiere_OrganizeFtg.png)
+
+* Double click on footage and it will show in the Source Monitor
+* In the Media Bin, rename and organize footage as desired- keep organized according to type of shot
+* Press Command + B (mac) or Ctrl + B (windows) while in the bin in the Project window to create new ‘bins’ (folders) within your Media bin.
+
+#### ▼ Select a clip within Footage
+
+![Select Clip](assets/6_Premiere_SelectFtg.png)
+
+* If you don’t want to use all of your footage but want to select a clip within footage to use in your video:
+* Click in your Source Monitor window and press play, or the space bar and decide what you want to use
+* You can save the place of where you want your clip by using the ‘Marker’ arrows
+* Where you want your clip to begin, press ‘I’, or use the ‘Mark In’ tool ‘{‘
+* Where you want your clip to end, press ‘O’ or use the ‘Mark Out’ tool ‘}’
+
+#### ▼ Put Footage in Timeline
+
+![Timeline](assets/7_Premiere_FtgTimeline.png)
+
+* Once your clip is selected (if you chose one), drag from Source Monitor to Timeline, to put your selected clip in the timeline
+* Drop the clip in the center closest to the dividing bar.
+* It will show up on your timeline, displaying the audio below, and the video above.
+
+#### ▼ View Timeline Project in Program Monitor
+
+![Timeline](assets/8_Premiere_ViewTimeline.png)
+
+* When you press Play on the Program Monitor, or hit the Space Bar when in the Timeline, your footage will play.
+* You can adjust the fit of your footage in the video under ‘Fit’
+* You can double click on the video in the Program Monitor to reposition your footage
+
+#### ▼ Add a Second Clip to the Timeline
+
+![Timeline](assets/9_Premiere_AddTimeline.png)
+
+* In the Media Bin, double click on the footage you would like to add so that it appears in the Source Monitor
+* Select a clip as you did before (if desired), and drag from the Source Monitor to the Timeline
+
+#### ▼ View Full Timeline Project in Program Monitor
+
+![Timeline](assets/10_Premiere_ViewTimeline.png)
+
+* Your second clip should back up directly to your first clip on the Timeline
+* Pull your Timeline Needle (or Playhead) to the beginning of your timeline, then hit the Space Bar to play through your project and see what you have in the Program Monitor
+
+#### ▼ Add Transition Effects
+
+![Effects](assets/11_Premiere_AddTransition.png)
+
+* Select the Effects Window in the Project Window (where your Media Bin is)
+* Click on Video Transitions to see a menu of transition types
+* Click on Dissolves and select ‘Cross Dissolve’
+* Drag from the Cross Dissolve box to the place on your Timeline where you want to transition (between your two clips)
+
+#### ▼ View Transition
+
+![Effects](assets/12_Premiere_Transition.png)
+
+* The Cross Dissolve should appear as a bar that bridges two of your video clips (audio transitions are separate)
+* Hover over the bridge with your mouse until a bracket appears- you can use this bracket to adjust the time span of the transition
+* Play your project in the Program Monitor to view your transition
+
 
 ## ▼△▼△▼ Color Correction
 
@@ -138,6 +240,23 @@ Tutorials:
   * Easy color (white balance correction)
 * [Basic correction with Lumetri](https://www.youtube.com/watch?v=0VDbf9VsZ88)
 
+#### ▼ Adjust Exposure and Color
+
+![Color](assets/13_Premiere_AdjustExposureColor.png)
+
+* In the Effects Window, Select Video Effects, then select Color Correction, and then select Color Balance
+* Drag the Color Balance icon over to the clip in your Timeline that you would like to adjust
+
+
+![Color](assets/14_Premiere_AdjustColor_Two.png)
+
+* Select the Effect Controls window, which is behind your Source Monitor
+* Select Lumetri Color and scroll down to see the ‘Curves’ panel
+* Here you can just Exposure, and Red, Green, and Blue (RGB!! Screen Colors) balance
+* Select the Color and then move the curve to see the changes in the Program Monitor
+
+
+
 <br>
 <br>
 
@@ -146,6 +265,29 @@ Tutorials:
 You can create individual titles, but Premiere has a specific tool for creating closed-captions
 * [Adobe support docs (text)](https://helpx.adobe.com/premiere-pro/using/working-with-captions.html)
 * [Basic video tutorial on Captions and Subtitles](https://www.youtube.com/watch?v=ZhHG4f-9MBY)
+
+#### ▼ Add a Title
+
+![Title](assets/15_Premiere_AddTitle.png)
+
+* Select the Graphics Workspace
+* In the Essential Graphics window, select ‘Browse’
+* In the list, select ‘Basic Title’
+
+![Title](assets/16_Premiere_AddTitle.png)
+
+* Drag ‘Basic Title’ to your timeline and place it at the beginning of your project, above your first clip
+* The text will appear at the center of the screen on your clip
+
+![Title](assets/17_Premiere_AddTitle.png)
+
+* Double click the title on your Timeline, then select ‘Your Title Here’ in the Graphics Window
+* Click on the ‘Your Title Here’ box on your footage in the Program Monitor to type in your title. Move box to adjust placement.
+* Adjust color and font size in the Text Window on the right side.
+
+![Title](assets/18_Premiere_AddTitle.png)
+
+* Double click the title on your Timeline, then drag end backward or forward to adjust length of appearance in your project.  
 
 <br>
 <br>
