@@ -7,7 +7,7 @@
 
 ##### Included on this page:
 
-1. Assigned Tutorials
+1. [Assigned Tutorials](#▼△▼△▼-Assigned-tutorials)
 2. Tips and Resources
   1. Setup - folder template and renaming files
   2. Keyboard shortcuts
@@ -19,7 +19,7 @@
 
 <br>
 
-## ▼△▼△▼ Assigned tutorials
+# ▼△▼△▼ Assigned tutorials
 
 ##### Tutorials from Lynda.com
 ----> [Here is the Link](https://www.lynda.com/portal/patron?org=sjlibrary.org&triedlogout=true) to log in to Lynda with San Jose Public Library Card (or just do a search for "Lynda SJPL").
