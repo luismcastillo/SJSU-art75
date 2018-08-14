@@ -9,10 +9,17 @@
  ![V I D E O A R T](lectures/01b_videoArtHistory_pt1/images/glitchStatic.jpg)
  <br>
 
-**Instructor:** Lark Alder <br>
-**Office Location:** Art 321 <br>
-**Office Hours:** Thursdays 3-4pm or by appointment <br>
+ #### 📅🗓 SCHEDULE 📆 ----> ***[section1](/syllabi/section1) - - - [section2](/syllabi/section2) - - - [section3](/syllabi/section3)***
+
+**Instructor:** Lark Alder
+**Office Location:** Art 323
+**Office Hours:** Tuesdays 4-5pm or by appointment
 **Email:** lark.buckingham@sjsu.edu <br>
+
+**Instructor:** Carrie Hott
+**Office Location:** Art 311
+**Office Hours:** Tuesdays 1:30-3pm or by appointment
+**Email:** carolyn.hott@sjsu.edu <br>
 
 
 
@@ -23,54 +30,6 @@ This studio workshop course is an in-depth study of video as an art form. The co
 
 ## ▼△▼△▼ Resources
 This is the Github page for the class! We will also be using Canvas for submitting assignments, but I will be posting all files, lecture notes, and tutorials here. The [resources page](resources) includes a few useful files and a long list of handy links.
-<br><br>
-***Syllabus:*** <br>
-Download the full syllabi for
-[Section 1](resources/Syllabus_Art75-Spring18_section1.pdf) and
-[Section 3](resources/Syllabus_Art75-Spring18_section3.pdf) here, but **PLEASE refer to this page for updated schedule info**, as the initial syllabi are subject to change.
-<br><br>
----> *Assignment details and grading info listed at the bottom of this page.*
-
-<br><br>
-## ▼△▼△▼ Calendar
-
-| Week | Date | Topics, Readings, Assignments, Deadlines |
-| --- | --- | --- |
-| 1 | Jan 25 | Introductions, overview of syllabus and course requirements    |
-| 2 | Jan 30 | [Video Art Pre-History](lectures/01a_videoArtPreHistory) <br> [Recording Audio](tutorials/01_recordingAudio) <br><br> **Due:** Reading - [Kate Horsfield, *Busting The Tube: A Brief History of Video Art*](readings/*horsfield_busting-the-tube_brief-history-of-video-art.pdf)  |
-| 2 | Feb 1 | [Video Art History pt 1: Inception and Trends](lectures/01b_videoArtHistory_pt1)<br> Lab <br><br> **Due:** Lynda Tutorials - [*Premiere Pro CC 2017 Essential Training: The Basics* - Select tutorials Ch. 3-7](tutorials/02_Premiere)  |
-| 3 | Feb 6 | [Video Art History pt 2: 1980s and 90s](lectures/01c_videoArtHistory_pt2) <br> Discuss [Critical Art Ensemble, *Utopian Promises - Net Realities*](readings/*critical-art-ensemble_Utopian-Promises-Net-Realities.pdf) <br> [Shooting video on DSLR cameras](tutorials/03_shootingDSLR) <br><br>**Due:** Audio component for Project 1: Non-narrative Video  |
-| 3 | Feb 8 | Politics of representation <br> Premiere tutorial  <br><br>**Due:** [Catherine Elwes, *Video Art, A Guided Tour,* ch. 4 Masculinities: Class, Gay and Racial Equality](readings/*elwes_Video-Art-A-Guided-Tour.pdf) - pg. 73-76 of PDF <br>**Due:** Lynda Tutorials - [*Premiere Pro CC 2017 Essential Training: The Basics* - Select tutorials Ch. 9-12](tutorials/02_Premiere) |
-| 4 | Feb 13 | Lab, progress one on one <br> Premiere Pro  <br><br>**Due:** Progress on Project 1  |
-| 4 | Feb 15 | Critique<br><br>  **Due:** Project 1: Non-narrative Video (complete with audio and video)  |
-| 5 | Feb 20 | Critique <br>[Contemporary Video Art](lectures/02_ContemporaryVideoArt)<br>[Filmic Conventions](tutorials/04_filmicConventions) <br><br>**Read:** [Hito Steryl, &quot;Cut! Reproduction and Recombination&quot; Excerpts your choice](readings/*hitoSteyerl_Cut.pdf) <br>**Due:** Ideas for Project 2  |
-| 5 | Feb 22 | [Contemporary Video Art](lectures/02_ContemporaryVideoArt) (cont)<br>Installation techniques pt. 1<br>Lab - Project 2 ideas  |
-| 6 | Feb 27 | Intro to New Media Art<br> Lab <br><br>  **Read:** [Lee Manovich &quot;Language of New Media&quot; Excerpts page 7-10 of pdf](readings/*manovich-LangNewMedia-excerpt.pdf)   |
-| 6 | Mar 1 | New Media / Video Art <br> [Tutorial on free website hosting on GitHub, HTML/CSS review](tutorials/05a_HTML-CSS_gitHubPage) <br><br> |
-| 7 | Mar 6 | New Media / net.art <br> Lab – share project progress with peers <br> [Tutorial on setting up GitHub Desktop and Atom](tutorials/05b_HTML-CSS_gitHubDesktop-atom)<br><br> **Due:** Progress for Project 2 - Performance Art / Experimental Documentary / Video essay <br> **Read:** [Rachel Greene, &quot;Web Work - A History of Internet Art&quot;](readings/*greene_history_net_art.pdf) pg 3-4 of PDF  |
-| 7 | Mar 8 | New Media Art <br> Intro to programming concepts<br>Lab / in-class exercise in coding |
-| 8 | Mar 13 | Critique <br><br>  **Due:** Project 2 - Performance Art / Experimental Documentary / Video essay|
-| 8 | Mar 15 | Critique <br> New Media Art <br>Lab / in-class exercise  |
-| 9 | Mar 20 | New Media Art <br>Lab / in-class exercise   <br><br>**Due:** [p5.js tutorials - your pick](tutorials/06b_recommendedJavaScriptTutorials)    |
-| 9 | Mar 22 | New Media Art<br>Critique  <br><br>**Due:** Project 3a – Net Art <br>\*Project 3a and 3b are mostly in-class projects  |
-| 10 | April 3 | net.art and Generative art <br>Lab / in-class exercise <br><br>**Due:** Ideas for Final Projects (submit on canvas) <br> **Due:** Blog review of a net.art piece from the [Rhizome Net Anthology](https://anthology.rhizome.org/) (submit on canvas)  |
-| 10 | April 5 | Lab   <br><br>**Due:** Project 3b – Net/Generative Art <br><br>**\*\*Note:** Applications for DMA BFA (including portfolio website) due Friday April 6th |
-| 11 | April 10 | Critique <br> Installation techniques pt. 2 <br> Video mapping demo  |
-| 11 | April 12 | Intro to After Effects  <br><br>**Due:** Lynda Tutorials &quot;After Effects CC 2018 Essential Training: The Basics&quot; Ch 1-2  |
-| 12 | April 17 | After Effects Tutorial and in-class exercise  <br><br>**Due:** Progress on Final projects: submit on Canvas and bring work to class. This is graded for completion.  |
-| 12 | April 19 | Surveillance and Networks<br>After Effects Tutorial and in-class exercise <br><br> **Read:** Lisa Nakamura, &quot;Blaming, Shaming and the Feminization of Social Media&quot; (cancelled) |
-| 13 | April 24 | Lab<br>Tutorial (open for class interest)   |
-| 13 | April 26 | Critique / lab – prepare for install  <br><br>**Due:** Final Project   |
-| 14 | May 1 | **SHOW OPENS** – finalize install  |
-| 14 | May 3 | Critique <br> Screening night (TBA)|
-| 15 | May 8 | Critique<br>Virtual Spaces  <br><br>**Due:** Oliver Grau, &quot;Remember the Phantasmagoria!&quot; pgs 3-8 (of PDF); Jean Baudrillard, Simulacra and Simulation (cancelled)  |
-| 15 | May 10 | Lab – work on websites - class party! |
-| 16 | May 15 | All class work due at midnight |
-| 16 | May 16 | Official Date of Section 1 Final @ 7:15AM – 9:30AM - no class meeting |
-| 16 | May 17 | Official Date of Section 3 Final @ 9:45AM – 12:00PM - no class meeting |
-
-
-
 
 <br><br>
 ## ▼△▼△▼ Assignments
@@ -141,42 +100,3 @@ This will be evaluated on engagement in class and online discussions.
 
 <br>
 <br>
-
-## ▼△▼△▼ Group Agreements 🐼👾🐬
-
-
-1. What would help make this a safe and respectful space?
-
-2. What would make this a productive learning environment?
-
-
-<br>
-***Our list:***
-
-*(condensed from section 1 and 3 responses)*
-<br>
-* don't be afraid to ask a question or ask for help
-* if you see someone struggling, offer to help
-* start/end/be on time
-* refrain from using phones and social media outside of break time
-* step up step down
-  * people who contribute often -- show some restraint
-  * people who contribute less -- know your opinions are welcome
-* give people your full attention - be present
-  * make eye contact
-* participate
-* give constructive criticism
-  * better than silence
-  * exercise tact - be honest but mindful of what you are saying and how you say it
-* challenge what the person has to say not the person themselves
-* be open-minded
-  * put yourself in someone else's shoes
-  * be respectful of difference
-* be aware of how you take up space
-* be careful not to interrupt
-* be on task
-* be open to debate
-  * if you disagree, challenge the ideas not the person
-  * use "I" statements
-* be patient
-  - especially when not everyone is on the same page with previous skills/knowledge
