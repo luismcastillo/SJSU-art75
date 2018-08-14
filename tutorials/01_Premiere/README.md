@@ -7,14 +7,15 @@
 
 ##### Included on this page:
 
-1. [Assigned Tutorials](#-Assigned-tutorials)
+1. [Assigned Tutorials](#-assigned-tutorials)
 2. Tips and Resources
-  1. Setup - folder template and renaming files
+  1. [Setup - folder template and renaming files](#-setup)
   2. [Keyboard shortcuts](#-keyboard-shortcuts)
-  3. Color Correction
-  4. Captions and Subtitles
-  5. Working with Audio
-  6. Exporting
+  3. [Getting Started with the Program](#-getting-started-with-premiere)
+  3. [Color Correction](#-color-correction)
+  4. [Captions and Subtitles](#-captions-and-subtitles-using-premiere's-built-in tool)
+  5. [Working with Audio](#-working-with-audio)
+  6. [Exporting](#-exporting)
 
 
 <br>
@@ -45,7 +46,7 @@ We will watch [Premiere Pro CC 2017 Essential Training: The Basics ](https://www
 <br>
 <br>
 
-## ▼△▼△▼ Setup
+# ▼△▼△▼ Setup
 
 **Create a folder for all your in-class exercises.**
 
@@ -131,7 +132,7 @@ Here is [a link](https://helpx.adobe.com/premiere-pro/using/default-keyboard-sho
 <br>
 <br>
 
-## ▼△▼△▼ Getting Started with Premiere
+# ▼△▼△▼ Getting Started with Premiere
 
 #### ▼ Open the Program
 
@@ -232,7 +233,7 @@ Here is [a link](https://helpx.adobe.com/premiere-pro/using/default-keyboard-sho
 * Play your project in the Program Monitor to view your transition
 
 
-## ▼△▼△▼ Color Correction
+# ▼△▼△▼ Color Correction
 
 Tutorials:
 * [Adobe support docs (text)](https://helpx.adobe.com/premiere-pro/using/color-correction-adjustment.html)
@@ -260,7 +261,7 @@ Tutorials:
 <br>
 <br>
 
-## ▼△▼△▼ Captions and Subtitles using Premiere's built-in tool
+# ▼△▼△▼ Captions and Subtitles using Premiere's built-in tool
 
 You can create individual titles, but Premiere has a specific tool for creating closed-captions
 * [Adobe support docs (text)](https://helpx.adobe.com/premiere-pro/using/working-with-captions.html)
@@ -292,7 +293,7 @@ You can create individual titles, but Premiere has a specific tool for creating 
 <br>
 <br>
 
-## ▼△▼△▼ Working with Audio
+# ▼△▼△▼ Working with Audio
 
 * [Adobe support docs (text)](https://helpx.adobe.com/premiere-pro/user-guide.html?topic=/premiere-pro/morehelp/audio.ug.js)
 * [Basic audio levels and fades](https://www.youtube.com/watch?v=t0IAJSFl5Ww)
@@ -302,7 +303,7 @@ You can create individual titles, but Premiere has a specific tool for creating 
 <br>
 <br>
 
-## ▼△▼△▼ EXPORTING
+# ▼△▼△▼ EXPORTING
 
 Step-by-step tutorial on exporting.
 
