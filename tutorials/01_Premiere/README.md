@@ -10,7 +10,7 @@
 1. [Assigned Tutorials](#-Assigned-tutorials)
 2. Tips and Resources
   1. Setup - folder template and renaming files
-  2. [Keyboard shortcuts](#-Keyboard-Shortcuts)
+  2. [Keyboard shortcuts](#-keyboard-shortcuts)
   3. Color Correction
   4. Captions and Subtitles
   5. Working with Audio
