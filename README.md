@@ -9,7 +9,7 @@
  ![V I D E O A R T](lectures/01b_videoArtHistory_pt1/images/glitchStatic.jpg)
 
 ### *SCHEDULE*--->
-### ***📆 [section1](/syllabi/section1) - - - 📅 [section2](/syllabi/section2) - - - 🗓[section3](/syllabi/section3)***
+### ***📆 [section1](/schedule/section1) - - - 📅 [section2](/schedule/section2) - - - 🗓[section3](/schedule/section3)***
 
 
 <br>
