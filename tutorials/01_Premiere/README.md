@@ -27,11 +27,11 @@
 
 We will watch [Premiere Pro CC 2017 Essential Training: The Basics ](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2017-Essential-Training-Basics/585268-2.html)
 
-**For week 2, watch:**
+**Recommended intro tutorials:**
 * Ch. 2 (just the second part: Taking a tour)
 * All of Chapters 4, 5, and 7
 
-**For week 3, watch:**
+**...More tutorials:**
 * Chapter 9: Working with Effects
   - First four sections are optional: review of what we have covered in class about effects
 * Chapter 10: Manipulating Clip Speed
