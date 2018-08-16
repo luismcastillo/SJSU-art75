@@ -76,33 +76,35 @@ Tutorials for renaming all your footage files at once:
 
 Here is [a link](https://helpx.adobe.com/premiere-pro/using/default-keyboard-shortcuts-cc.html) to Adobe's full list of keyboard shortcuts. Below are notable ones to remember.
 
-| Basic Operations   |              |             |
-|--------------------|--------------|-------------|
-|       Save         | Ctrl+S       | Cmd+S       |
-|       Save As...   | Ctrl+Shift+S | Shift+Cmd+S |
-|       Import...    | Ctrl+I       | Cmd+I       |
-|       Undo         | Ctrl+Z       | Cmd+Z       |
-|       Redo         | Ctrl+Shift+Z | Shift+Cmd+Z |
-|       Cut          | Ctrl+X       | Cmd+X       |
-|       Copy         | Ctrl+C       | Cmd+C       |
-|       Paste        | Ctrl+V       | Cmd+V       |
-|       Select All   | Ctrl+A       | Cmd+A       |
-|       Deselect All | Ctrl+Shift+A | Shift+Cmd+A |
-|       Find...      | Ctrl+F       | Cmd+F       |
+| Basic Operations          | Window       | Mac         |
+|---------------------------|--------------|-------------|
+|       Save                | Ctrl+S       | Cmd+S       |
+|       Save As...          | Ctrl+Shift+S | Shift+Cmd+S |
+|       Import...           | Ctrl+I       | Cmd+I       |
+|       Undo                | Ctrl+Z       | Cmd+Z       |
+|       Redo                | Ctrl+Shift+Z | Shift+Cmd+Z |
+|       Cut                 | Ctrl+X       | Cmd+X       |
+|       Copy                | Ctrl+C       | Cmd+C       |
+|       Paste               | Ctrl+V       | Cmd+V       |
+|       Select All          | Ctrl+A       | Cmd+A       |
+|       Deselect All        | Ctrl+Shift+A | Shift+Cmd+A |
+|       Find...             | Ctrl+F       | Cmd+F       |
 
 
 | Sequence shortcuts                                        |              |             |
 |--------------------------------------------------|--------------|-------------|
-|       Match Frame                                | F            | F           |
-|       Add Edit                                   | Ctrl+K       | Cmd+K       |
-|       Add Edit to All Tracks                     | Ctrl+Shift+K | Shift+Cmd+K |
-|            Render Effects in Work Area/In to Out | Enter        | Return      |
-|       Apply Video Transition                     | Ctrl+D       | Cmd+D       |
-|       Apply Audio Transition                     | Ctrl+Shift+D | Shift+Cmd+D |
-|       Lift                                       | ;            | ;           |
-|       Extract                                    | '            | '           |
+|       Play/Stop Toggle                           | Space or K   | Space or K  |
+|         Play: Forward and Backward               | J,K,L        | J, K, L     |
 |       Zoom In                                    | =            | =           |
 |       Zoom Out                                   | -            | -           |
+|       Match Frame                                | F            | F           |
+|       Add Edit (like razor tool)                                | Ctrl+K       | Cmd+K       |
+|       Add Edit to All Tracks                     | Ctrl+Shift+K | Shift+Cmd+K |
+|            Render Effects in Work Area/In to Out | Enter        | Return      |
+|       Apply Video Transition (dissolve)                     | Ctrl+D       | Cmd+D       |
+|       Apply Audio Transition (cross-fade)                     | Ctrl+Shift+D | Shift+Cmd+D |
+|       Lift                                       | ;            | ;           |
+|       Extract                                    | '            | '           |
 |       Mark In                                    | I            | I           |
 |       Mark Out                                   | O            | O           |
 |       Mark Clip                                  | X            | X           |
@@ -112,11 +114,9 @@ Here is [a link](https://helpx.adobe.com/premiere-pro/using/default-keyboard-sho
 |       Clear Out                                  | Ctrl+Shift+O | Opt+O       |
 |       Add Marker                                 | M            | M           |
 |       Go to Next Marker                          | Shift+M      | Shift+M     |
-|       Loop                                       |              | Cmd+L       |
 |       Go to Next Edit Point                      | Down         | Down        |
 |       Go to Previous Edit Point                  | Up           | Up          |
-|       Play/Stop Toggle                           | Space or K   | Space or K  |
-|         Play: Forward and Backward               | J,K,L        | J, K, L     |
+
 
 
 | Tool Shortcuts       |   |   |
