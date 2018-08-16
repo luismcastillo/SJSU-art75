@@ -8,20 +8,20 @@
 <br>
 ##### Included on this page:
 
-1. What is DSLR
-2. ISO
-3. Aperture
-4. Shutter speed
-5. White balance
-6. Recording Audio
-7. Checklist for getting good footage
+1. [What is DSLR](#-what-is-dslr?)
+2. [ISO](#-iso)
+3. [Aperture](#-aperture)
+4. [Shutter speed](#-shutter-speed)
+5. [White balance](#-white-balance)
+6. [Recording Audio](#-recording-audio)
+7. [Checklist for getting good footage](#-tips-for-getting-good-footage)
 
 
-#### ▼△▼△▼ **What is DSLR?**
+# ▼△▼△▼ What is DSLR?
 
 DSLR cameras were designed for still photography, but have been embraced by indie filmmakers. The main benefit to using a DSLR camera for video is the shallow depth of field because of their large image sensors, relative to video camcorders. Also, DSLRs can capture video at 24 frames-per-second (film standard), as opposed to the 29.97fps (TV/video standard). For these reasons, DSLRs can produce a very seductive 'film-like' image. The cons are that they aren't really designed for video. Some models don't have rotating viewfinders for shooting from different angles, and some controls are difficult to control while recording.
 
-#### ▼△▼△▼ ISO
+# ▼△▼△▼ ISO
 
 * Adjusts how sensitive your camera is to light.
   * Higher ISOs are more sensitive to light - they will bring up exposure in low light situations. BUT high ISO's will make the image grainy. The rule of thumb is to make your ISO *as low as possible*. The goal is to find balance between exposure and grain.
@@ -31,7 +31,7 @@ DSLR cameras were designed for still photography, but have been embraced by indi
 <br>
 <br>
 
-#### ▼△▼△▼ Aperture
+# ▼△▼△▼ Aperture
 
 * Controls amount of light reaching the image sensor. Think of it like a pupil dilating and constricting to let more/less light in. You measure aperture with the f-stop
   * Lower aperture settings let more light in. So an aperture of 1.8 is more open and lets more light in than an aperture of 8.0.
@@ -44,7 +44,7 @@ DSLR cameras were designed for still photography, but have been embraced by indi
 <br>
 <br>
 
-#### ▼△▼△▼ Shutter Speed
+# ▼△▼△▼ Shutter Speed
 
 * Slower frame-rates will produce
 * Rule of thumb: double your frame-rate to have you an approximation for you ideal shutter speed
@@ -59,7 +59,7 @@ DSLR cameras were designed for still photography, but have been embraced by indi
 <br>
 <br>
 
-#### ▼△▼△▼ White balance
+# ▼△▼△▼ White balance
 
 * White balance is basically telling your camera what color temperature you are shooting in
   * Different light bulbs have different temperatures, making more-blue or more-yellow light.
@@ -72,7 +72,9 @@ DSLR cameras were designed for still photography, but have been embraced by indi
 <br>
 <br>
 
-#### ▼△▼△▼ Recording audio
+# ▼△▼△▼ Recording audio
+
+***For more detailed instruction check out the [Recording Audio Tutorial](../02c_recordingAudio)***
 
 * DSLRs have really poor built-in audio recording, because they are not designed for video.
 * Use the best microphone possible!
@@ -91,7 +93,7 @@ DSLR cameras were designed for still photography, but have been embraced by indi
 <br>
 
 
-#### ▼△▼△▼ Tips for getting good footage
+# ▼△▼△▼ Tips for getting good footage
 
 * Keeping the camera steady
   - Use tripod or camera stabilizer
