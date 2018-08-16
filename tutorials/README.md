@@ -14,8 +14,10 @@
 Check out links to web tutorials on the [resources page](../resources).
 
 
-* [Recording Audio](01_recordingAudio)
-* [Premiere](02_Premiere)
-* [Shooting DSLR](03_shootingDSLR)
-* [Filmic Conventions (types of shots and continuity editing)](04_filmicConventions)
-* [Creating a GitHub personal page](05a_HTML-CSS_gitHubPage)
+
+* [Premiere](01_Premiere)
+* [Shooting DSLR](02a_shootingDSLR)
+* [Shooting with FilmicPro](02b_shootingFilmicPro)
+* [Recording Audio](02c_recordingAudio)
+* [Filmic Conventions (types of shots and continuity editing)](02d_filmicConventions)
+* [Creating a GitHub personal page](03a_gitHubPageSetup)
