@@ -7,15 +7,15 @@
 
 ##### Included on this page:
 
-1. Audio recording tips/checklist
-2. Tips for recording with the Zoom H4N
+1. [Audio recording checklist](#-audio-recording-checklist)
+2. [Tips for recording with the Zoom H4N](#-tips-for-recording-with-the-zoom-h4n)
 
 
 <br>
 
-## ▼△▼△▼ Audio recording tips/checklist
+# ▼△▼△▼ Audio recording checklist
 
-##### 1. Minimize background noise
+#### 1. Minimize background noise
 
 Listen for fans, refrigerators, air conditioning, buzz from flourescent lights — turn these off. Close windows to minimize street and traffic noise.
 
@@ -26,13 +26,13 @@ Wind can also be very disruptive. Use furry wind muffs to help.
 <br>
 
 
-##### 2. Record room tone
+#### 2. Record room tone
 
 Get ***at least*** 10 seconds of background noise. You will thank yourself in the editing room.
 <br>
 <br>
 
-##### 3. Position the mic well
+#### 3. Position the mic well
 
 Listen through your headphones! This will help you figure out the best way to position it, especially when taking stereo into consideration.
 
@@ -42,7 +42,7 @@ If you are interviewing someone, place or hold the mic as close to their mouth w
 <br>
 <br>
 
-##### 4. Levels! Always check your levels.
+#### 4. Levels! Always check your levels.
 
 You want your audio to be as loud as possible without being too loud.
 
@@ -56,7 +56,7 @@ Check levels of your headphones as well - sometimes this can be very misleading.
 <br>
 <br>
 
-## ▼△▼△▼ Recording with the Zoom H4N
+# ▼△▼△▼ Recording with the Zoom H4N
 
 
 ***Tips on using the H264 Zoom:***

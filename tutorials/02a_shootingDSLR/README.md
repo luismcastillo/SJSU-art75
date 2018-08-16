@@ -8,7 +8,7 @@
 <br>
 ##### Included on this page:
 
-1. [What is DSLR](#-what-is-dslr?)
+1. [What is DSLR](#-what-is-dslr)
 2. [ISO](#-iso)
 3. [Aperture](#-aperture)
 4. [Shutter speed](#-shutter-speed)
