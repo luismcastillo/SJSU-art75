@@ -1,6 +1,5 @@
-# 📆 Schedule
+# 📆Schedule📆 :..｡o○ Section 2 ○o｡..:
 
-## :..｡o○ Section 2 ○o｡..:
 
 Download the full syllabi for [Section 2 here](resources/Syllabus_Art75_section2_FA_18.pdf), but **PLEASE refer to this page for updated schedule info**, as the initial syllabus is subject to change.
 <br>

@@ -1,6 +1,5 @@
-# 📆 Schedule
+# 📆Schedule📆  ＊✿❀ Section 1 ❀✿＊
 
-## ＊✿❀ Section 1 ❀✿＊
 
 Download the full syllabi for [Section 1 here](resources/Syllabus_Art75_section1_FA_18.pdf), but **PLEASE refer to this page for updated schedule info**, as the initial syllabus is subject to change.
 <br>
