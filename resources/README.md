@@ -8,11 +8,13 @@
 
 <br><br>
 ## ▼△▼△▼ Files in this folder
-* [Video workflow template zip](videoWorkflowTemplate.zip): preformatted folder structure for all class projects. It looks like [this](videoWorkflowTemplatePic.png). You *must* use it.
-  * [Guide to opening Mac Zip File in Windows](https://www.techwalla.com/articles/how-to-open-a-mac-zip-file-in-windows)
+* [Video workflow template zip](videoWorkflowTemplate.zip): preformatted folder structure for all class projects. It looks like [this](videoWorkflowTemplatePic.png), you *must* use it.
+![Video Workflow Template](videoWorkflowTemplatePic.png)
+* [Guide to opening Mac Zip File in Windows](https://www.techwalla.com/articles/how-to-open-a-mac-zip-file-in-windows)
 * Syllabi / syllabuses:
-[Section 1](resources/Syllabus_Art75-Spring18_section1.pdf) and
-[Section 3](resources/Syllabus_Art75-Spring18_section3.pdf)
+  * [Section 1](resources/Syllabus_Art75_section1_FA_18.pdf)
+  * [Section 2](resources/Syllabus_Art75_section2_FA_18.pdf)
+  * [Section 3](resources/Syllabus_Art75_section3_FA_18.pdf)
 * [Storyboard template](storyboard_template.png)
 * pdf on [Best Practices in Fair Use](online_best_practices_in_fair_use.pdf)
 
