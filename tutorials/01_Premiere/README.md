@@ -8,14 +8,13 @@
 ##### Included on this page:
 
 1. [Lynda Tutorial Links](#-tutorial-links)
-2. In-Class Tutorials
-  1. [Setup - folder template and renaming files](#-setup)
-  2. [Keyboard shortcuts](#-keyboard-shortcuts)
-  3. [Getting Started with Premiere](#-getting-started-with-premiere)
-  3. [Color Correction](#-color-correction)
-  4. [Captions and Subtitles](#-captions-and-subtitles-using-premieres-built-in-tool)
-  5. [Working with Audio](#-working-with-audio)
-  6. [Exporting](#-exporting)
+2. [Setup - folder template and renaming files](#-setup)
+3. [Keyboard shortcuts](#-keyboard-shortcuts)
+4. [Getting Started with Premiere](#-getting-started-with-premiere)
+5. [Color Correction](#-color-correction)
+6. [Captions and Subtitles](#-captions-and-subtitles-using-premieres-built-in-tool)
+7. [Working with Audio](#-working-with-audio)
+8. [Exporting](#-exporting)
 
 
 <br>
