@@ -6,18 +6,29 @@
 #### ***[home](..) - - - [lectures](../lectures) - - - [readings](../readings) - - - [tutorials](../tutorials)***
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 
-<br><br>
-## ▼△▼△▼ Files in this folder
+ <br><br>
+
+##### Included on this page:
+
+ 1. [Files in the Resources folder](#-files-in-the-resources-folder)
+ 2. [Websites and Blogs](#-websites-and-blogs)
+ 3. [Tutorials and Tech Support](#-tutorials-and-tech-support)
+ 4. [Downloading video and audio from the web](#-downloading-video-and-audio-from-the-web)
+
+
+<br>
+
+## ▼△▼△▼ Files in the Resources folder
 * [Video workflow template zip](videoWorkflowTemplate.zip): preformatted folder structure for all class projects.
   * [Guide to opening Mac Zip File in Windows](https://www.techwalla.com/articles/how-to-open-a-mac-zip-file-in-windows)
 * Syllabi / syllabuses:
-  * [Section 1](resources/Syllabus_Art75_section1_FA_18.pdf)
-  * [Section 2](resources/Syllabus_Art75_section2_FA_18.pdf)
-  * [Section 3](resources/Syllabus_Art75_section3_FA_18.pdf)
+  * [Section 1](Syllabus_Art75_section1_FA_18.pdf)
+  * [Section 2](Syllabus_Art75_section2_FA_18.pdf)
+  * [Section 3](Syllabus_Art75_section3_FA_18.pdf)
 * [Storyboard template](storyboard_template.png)
 * pdf on [Best Practices in Fair Use](online_best_practices_in_fair_use.pdf)
 
-## ▼△▼△▼ Websites & Blogs
+## ▼△▼△▼ Websites and Blogs
 
 ##### Video & Experimental Art
 * [Video Data Bank](https://www.vdb.org/)
@@ -49,7 +60,7 @@
 * [LGBTQ Game Archive](https://lgbtqgamearchive.com/about/about-archive/)
 * [Queerness and Gaming Conference (QGCON)](http://www.qgcon.com/)
 
-## ▼△▼△▼ Tutorials & Tech Support
+## ▼△▼△▼ Tutorials and Tech Support
 * [Lynda.com](Lynda.com) — Get a free subscription through a San Jose Public Library!!!!!! Most comprehensive and trustworthy tutorials
   * [USE THIS LINK](https://www.lynda.com/portal/patron?org=sjlibrary.org&triedlogout=true) to log in to Lynda with your San Jose Public Library Card (or just do a search for "Lynda SJPL").)
 * [Adobe Tutorials](https://helpx.adobe.com/creative-cloud/tutorials-explore.html)
@@ -59,7 +70,7 @@
 * [W3schools](https://www.w3schools.com/) is also good.
 * [Color Hexcode Generator](http://www.color-hex.com/)
 
-## ▼△▼△▼ Downloading video/audio from the web
+## ▼△▼△▼ Downloading video and audio from the web
 
 ##### Usage rights
 
