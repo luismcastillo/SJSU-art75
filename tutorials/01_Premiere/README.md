@@ -7,7 +7,7 @@
 
 ##### Included on this page:
 
-1. [Assigned Tutorials](#-assigned-tutorials)
+1. [Tutorial Links](#-tutorial-links)
 2. Tips and Resources
   1. [Setup - folder template and renaming files](#-setup)
   2. [Keyboard shortcuts](#-keyboard-shortcuts)
@@ -20,10 +20,10 @@
 
 <br>
 
-# ▼△▼△▼ Assigned tutorials
+# ▼△▼△▼ Tutorial Links
 
 ##### Tutorials from Lynda.com
-----> [Here is the Link](https://www.lynda.com/portal/patron?org=sjlibrary.org&triedlogout=true) to log in to Lynda with San Jose Public Library Card (or just do a search for "Lynda SJPL").
+----> [Here is the Link](https://www.lynda.com/portal/patron?org=sjlibrary.org&triedlogout=true) to log in to Lynda for free with San Jose Public Library Card (or just do a search for "Lynda SJPL").
 
 We will watch [Premiere Pro CC 2017 Essential Training: The Basics ](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2017-Essential-Training-Basics/585268-2.html)
 
@@ -33,12 +33,11 @@ We will watch [Premiere Pro CC 2017 Essential Training: The Basics ](https://www
 
 **...More tutorials:**
 * Chapter 9: Working with Effects
-  - First four sections are optional: review of what we have covered in class about effects
+  - First four sections
 * Chapter 10: Manipulating Clip Speed
   - Creating freeze frames and stills
   - Changing speed with the Rate Stretch tool and Speed/Duration window
 * Chapter 11 Basic Color Correction
-  - Optional: we will do demos in class on Thursday
 * Chaper 12: Working with Titles
   - Watch all
 
