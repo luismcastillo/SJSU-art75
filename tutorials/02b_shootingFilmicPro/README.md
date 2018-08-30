@@ -6,9 +6,6 @@
 <br>
 <br>
 <br>
-##### Included on this page:
-
-1. WATCH THESE TUTORIALS
 
 # ▼△▼△▼ Tutorials
 
