@@ -8,13 +8,68 @@
 <br>
 ##### Included on this page:
 
-1. [What is DSLR](#-what-is-dslr)
-2. [ISO](#-iso)
-3. [Aperture](#-aperture)
-4. [Shutter speed](#-shutter-speed)
-5. [White balance](#-white-balance)
-6. [Recording Audio](#-recording-audio)
-7. [Checklist for getting good footage](#-tips-for-getting-good-footage)
+1. [Tips for getting good footage](#-tips-for-getting-good-footage)
+2. [What is DSLR](#-what-is-dslr)
+3. [ISO](#-iso)
+4. [Aperture](#-aperture)
+5. [Frame Rate and Shutter Speed](#-shutter-speed)
+6. [White balance](#-white-balance)
+
+
+
+# ▼△▼△▼ Tips for getting good footage
+
+#### Camera set-up
+* Make sure your battery is charged the night before
+* Check the memory on your SD card before shooting, and format it (erase what is on it) if needed
+* Check your lens and clean it with lens wipe or *very* soft fabric
+* Set the video file settings (aka the movie record size / resolution) to your desired format
+  * Standard HD is 1920x1080 at 24fps (for filmic look)
+
+#### Camera record settings
+* Make sure your shutter speed to be twice your frame rate
+  * for 24fps shutter speed is 48 (same as 1/48), or round up to 50
+* Set your aperture according to what depth of field you want in your shot
+  * A wide aperture (a bigger hole = smaller number ie. 1.8) will give you smaller depth of field, where only some things are in focus
+  * A narrow aperture (smaller hole = bigger number ie 16) will give you a wider depth of field, where many things are in focus
+* ... then adjust your ISO and exposure to get a well-lit shot
+  * ISOs over ~800 will start to look grainy
+* Set your white balance using a white piece of paper
+
+
+#### Shooting
+* Keeping the camera steady, unless you have a reason for wanting it handheld
+  - Use tripod or camera stabilizer
+  - Be creative if you need to!
+  - Keep handheld image steady by using a strap around neck or stabilizing arms against hips
+* Increase the lighting whenever possible!
+  * For less grainy shots, better footage
+* Get things in focus
+  - Zoom in to focus (DSLRs use digital zoom button)
+  - Use the "Zeroing in" technique while adjusting the focus ring
+  - Make sure you are in focus if shooting yourself
+    - Focus on an object where you will be (ie. put a teddy bear on your chair)
+    - Get someone else to focus for you
+
+
+#### Get good audio!
+***For more detailed instruction check out the [Recording Audio Tutorial](../02c_recordingAudio)***
+
+* DSLRs have not-so-great built-in microphones, because they are not designed for video.
+* Use the best microphone possible!
+* Minimize background Noise
+  - Hard to do outside
+  - Inside: Turn off appliances, lights, air conditioning, shut windows
+* Record at least 10 seconds of "room tone" before you shoot
+* Keep microphone closest as you can to subject without microphone being in the shot
+  - Watch out for "pops" from puffs of air if mic is too close to subject's mouth
+* Make the audio as loud as possible without peaking
+  - NO PEAKING - don't want sounds to go into the red
+  - Voices ~ -6dB - -12dB
+  - Background ~ -12dB
+  - Careful about sounds from your hands on the mic
+  - Always edit with headphones
+
 
 
 # ▼△▼△▼ What is DSLR?
@@ -44,15 +99,17 @@ DSLR cameras were designed for still photography, but have been embraced by indi
 <br>
 <br>
 
-# ▼△▼△▼ Shutter Speed
+# ▼△▼△▼ Frame Rate and Shutter Speed
 
-* Slower frame-rates will produce
-* Rule of thumb: double your frame-rate to have you an approximation for you ideal shutter speed
-  * So if you are shooting at 24fps, double that is 48. There is no 1/48th shutter speed, so you round to 1/50th sec.
+* Your frame rate is how often your video is recording a frame to the file
+* Shutter speed is how long the exposure time is *for each frame*
+* Rule of thumb: double your frame rate to set your ideal shutter speed for film-like movement
+  * So if you are shooting at 24fps, double that is 48. Sometimes there is no 1/48th shutter speed, so you round to 1/50th sec.
   * Shooting at 30fps ---> shutter speed of 1/60th sec
-* Lower shutter speeds create more motion blur, whereas higher shutter speeds (faster) will create sharper but stutter-y movement.
+* Lower shutter speeds create more ***motion blur***, whereas higher shutter speeds (faster) will create sharper but stutter-y movement.
   * High shutter speeds are good for capturing fast-moving action like sports
 * Lower shutter speeds will let more light in, higher shutter speeds will darken your image.
+* If you want to shoot ***slow-motion***, you will want to raise your frame rate, not the shutter speed. This will result in more frames in your footage, that you can stretch out over time in Premiere (without it being blurry)
 
 ![Low shutter speed](assets/lowShutterSpeed.JPG)
 *Blur with low shutter speed*
@@ -62,55 +119,15 @@ DSLR cameras were designed for still photography, but have been embraced by indi
 # ▼△▼△▼ White balance
 
 * White balance is basically telling your camera what color temperature you are shooting in
-  * Different light bulbs have different temperatures, making more-blue or more-yellow light.
-* You can use presets, or set custom white-balance (preferred). Avoid using auto-white balance! It will cause color-fades in your image.
-  * It is also possible to adjust white balance Kelvin temp with the dial (at least on Canons).
+  * Different light sources have different temperatures, making more-blue or more-yellow light.
+* You can use presets, or **set custom white-balance (preferred)**. Avoid using auto-white balance! It will cause hard-to-fix color-fades in your image.
+
 
 ![White balance chart](assets/white-balance-chart.png)
 
 ![White balance difference](assets/white-balance-diff.jpg)
-<br>
-<br>
 
-# ▼△▼△▼ Recording audio
 
-***For more detailed instruction check out the [Recording Audio Tutorial](../02c_recordingAudio)***
-
-* DSLRs have really poor built-in audio recording, because they are not designed for video.
-* Use the best microphone possible!
-* Minimize background Noise
-  - Hard to do outside
-  - Inside: Turn off appliances, lights, air conditioning, shut windows
-* Keep microphone closest as you can to subject without microphone it being the shot
-  - Watch out for "pops" from puffs of air if mic is too close to subjects mouth
-* As loud as possible without peaking
-  - NO PEAKING - don't want sounds to go into the red
-  - Voices ~ -6dB - -12dB
-  - Careful about handling the mic
-  - Always edit with headphones
 
 <br>
 <br>
-
-
-# ▼△▼△▼ Tips for getting good footage
-
-* Keeping the camera steady
-  - Use tripod or camera stabilizer
-  - Keep handheld image steady by using a strap around neck or stabilizing arms against hips
-* Increase the lighting
-* Set white balance
-* Get things in focus
-  - Zoom in to focus (DSLRs use digital zoom button)
-  - Zeroing in with lens
-  - Make sure you are in focus if shooting yourself
-    - Focus on an object where you will be
-    - Get someone else to focus for you
-* Depth of Field
-  - Adjust aperture
-    - Low F-stop (bigger hole) = shallow depth of field
-    - High F-stop = deep depth of field (everything in focus)
-* Expose it well
-  - Set your Aperture
-  - Set ISO
-  - Control 'exposure'
