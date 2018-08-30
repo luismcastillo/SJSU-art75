@@ -10,16 +10,16 @@ Download the full syllabi for [Section 3 here](resources/Syllabus_Art75_section3
 | **Week** | **Date** | **Topics, Readings, Assignments, Deadlines** |
 | --- | --- | --- |
 | 1 | Aug 24 | Introductions, overview of syllabus and course requirements   |
-| 1 | Aug 24b | [Video Art Pre-History](../../01a_videoArtPreHistory and (first half of) [Video Art History](01b_videoArtHistory_pt1)) <br> Introduction to Project 1: Video as Cultural Critique <br><br> **Reading:** [Kate Horsfield, &quot;Busting the Tube: A Brief History of Video Art&quot;](../../readings/*horsfield_busting-the-tube_brief-history-of-video-art)  |
+| 1 | Aug 24b | [Video Art Pre-History](../../01a_videoArtPreHistory and (first half of) [Video Art History](01b_videoArtHistory_pt1) <br> Introduction to Project 1: Video as Cultural Critique <br><br> **Reading:** [Kate Horsfield, &quot;Busting the Tube: A Brief History of Video Art&quot;](../../readings/*horsfield_busting-the-tube_brief-history-of-video-art)  |
 | 2 | Aug 31 | [Premiere Pro Tutorial 1](../../tutorials/01_Premiere) <br> In-Class Exercise 1 - Premiere: Use given footage and create an edited 30 second video <br> class discussion in response to reading <br><br> **Due:** Response to reading - Kate Horsfield, &quot;Busting the Tube: A Brief History of Video Art&quot;  |
-| 2 | Aug 31b | [Video Art History](01b_videoArtHistory_pt1) <br> Demo: [Shooting video, DSLR, importing footage](tutorials/02a_shootingDSLR) <br> Demo: [Using mobile phones + Filmic app](tutorials/02b_shootingFilmicPro) <br> Portfolio Website introduction <br> Lab time and one-on-one meetings on Project 1 ideas  <br><br> **Due:** Project 1 idea <br> **Due at end of class:** In-Class Exercise 1 - Premiere  |
-| 3 | Sep 7 | Video Art History and the Internet <br> Premiere Pro Tutorial 2 <br> Demo: Shooting video, DSLR, importing footage <br> In-Class Exercise 2 - Shooting Video: Shoot and edit a short video  |
-| 3 | Sep 7b | Video Art: Installation + Performance <br> Introduction to Project 2: Video in the Gallery <br> Demo: Using Github Desktop and Atom text editor  <br><br> **Due:** Portfolio Website progress: live on GitHub <br> **Due at end of class:** In-Class Exercise 2 - Shooting Video   |
-| 4 | Sep 14 | Lab and Project 1 one-on-one meetings <br> Demo: Portfolio Website fine touches <br><br> **Due:** Project 1 progress  |
-| 4 | Sep 14b | Project 1 Critique <br><br> **Due:** Project 1 <br> **Reading:** TBA   |
-| 5 | Sep 21 | Project 1 Critique (cont) <br> Demo: Projection Mapping <br> Video Art: Copyright and Found Footage <br><br> **Due:** Response to reading   |
-| 5 | Sep 21b | In-Class Exercise 3: Projection Mapping in groups using projectors <br> Video Art and Installation examples and/or SJMA field trip  <br><br> **Due:** Project 2 ideas <br> **Due:** Portfolio Website with Project 1   |
-| 6 | Sep 28 | Introduction to New Media Art and Project 3: Critical Interaction <br><br> **Due by end of class:** In-Class Exercise 3 - Projection mapping  |
+| 2 | Aug 31b | [Video Art History](01b_videoArtHistory_pt1) <br> Demo: [Shooting video, DSLR, importing footage](tutorials/02a_shootingDSLR) <br> Demo: [Using mobile phones + Filmic app](tutorials/02b_shootingFilmicPro) <br> Portfolio Website introduction <br> Lab time and one-on-one meetings on Project 1 ideas  <br><br> **Due:** Project 1 idea <br>  |
+| 3 | Sep 7 | Contemporary Video Art History <br> Premiere Pro Tutorial 2 <br> Demo: Shooting video, DSLR, importing footage <br> In-Class Exercise 2 - Shooting Video: Shoot and edit a short video  |
+| 3 | Sep 7b | Video Art: Installation + Performance <br> Demo: Using Github Desktop and Atom text editor  <br><br> **Due at end of class:** In-Class Exercise 1 - Premiere <br> **Due at end of class:** In-Class Exercise 2 - Shooting Video   |
+| 4 | Sep 14 | Lab and Project 1 one-on-one meetings <br><br> **Due:** Project 1 progress  |
+| 4 | Sep 14b |  Demo: Portfolio Website fine touches <br><br> **Reading:** TBA <br> **Due:** Portfolio Website progress: live on GitHub <br>    |
+| 5 | Sep 21 | Project 1 Critique   <br><br> **Due:** Project 1  <br> **Due:** Response to reading   |
+| 5 | Sep 21b | Critique (cont)  |
+| 6 | Sep 28 | Introduction to Project 2: Video in the Gallery <br> Demo: Projection Mapping <br> Video Art: Copyright and Found Footage  In-Class Exercise 3: Projection Mapping in groups using projectors <br> Video Art and Installation examples and/or SJMA field trip  <br><br> **Due:** Portfolio Website with Project 1 <br> **Due by end of class:** In-Class Exercise 3 - Projection mapping  |
 | 6 | Sep 28b | Share Project 2 progress in groups <br> Tutorial: Intro to coding with P5 <br> In-Class Exercise 4 - P5 variables: Make something move in P5 and add sketch to portfolio website  <br><br> **Due:** Project 2 progress <br> **Due by end of class:** In-Class Exercise 4 - P5  |
 | 7 | Oct 5 | Project 2 Critique  <br><br> **Due:** Project 2 |
 | 7 | Oct 5b | Project 2 Critique (cont)  <br> **Reading:** TBA  |
