@@ -7,11 +7,11 @@
 
 ##### Included on this page:
 
-1. [Tutorial Links](#-tutorial-links)
-2. Tips and Resources
+1. [Lynda Tutorial Links](#-tutorial-links)
+2. In-Class Tutorials
   1. [Setup - folder template and renaming files](#-setup)
   2. [Keyboard shortcuts](#-keyboard-shortcuts)
-  3. [Getting Started with the Program](#-getting-started-with-premiere)
+  3. [Getting Started with Premiere](#-getting-started-with-premiere)
   3. [Color Correction](#-color-correction)
   4. [Captions and Subtitles](#-captions-and-subtitles-using-premieres-built-in-tool)
   5. [Working with Audio](#-working-with-audio)
