@@ -18,6 +18,11 @@ You can see the image on a frame of film | Video's encoded information is not re
 </br>
 </br>
 
+![Video Today](assets/VideoToday.jpg)
+
+Now, video capturing devices are omnipresent, in this country and many others. Beyond a single television, video is now coming through our phones, computers, and often surrounds us in urban environments on billboards and in storefronts. Most of us watch a video every day. And perhaps are recorded regularly as well. With omnipresent video, the nature of video art continues to change, and our experience of videos continues to change as well.
+
+
 ## ▼△▼△▼△▼ Video as an art medium
 
 ##### Reflexive, hybrid, interdisciplinary
