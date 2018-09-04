@@ -18,6 +18,7 @@ I will post notes as the course progresses. These documents will be a diverse bu
 * [Video Art Pre-History](01a_videoArtPreHistory)
 * [Video Art History pt 1: Inception and Trends](01b_videoArtHistory_pt1)
 * [Video Art History pt 2: 1980s and 90s](01c_videoArtHistory_pt2)
+* [Contemporary Video Art](02_ContemporaryVideoArt)
 
 
 ![WHAT IS ART](https://media.giphy.com/media/12qxW9G7D2zShy/giphy.gif)
