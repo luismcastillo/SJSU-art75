@@ -9,6 +9,7 @@
 > "...since the beginning of the 1990s, the "Video artist" has already ceased to exist. Today more than ever video in the artistic context means the appearance of moving, electronic images." <br>
 Sylvia Martin, *Video Art*
 
+<br>
 
 ## Lectures<br>
 Video Art & The Internet<br>
