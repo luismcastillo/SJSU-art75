@@ -14,18 +14,18 @@ Download the full syllabi for [Section 2 here](resources/Syllabus_Art75_section2
 | 2 | Aug 28 | [Premiere Pro Tutorial 1](../../tutorials/01_Premiere) <br> In-Class Exercise 1 - Premiere: Use given footage and create an edited 30 second video <br> Class discussion in response to reading <br><br> **Due:** Response to reading - Kate Horsfield, &quot;Busting the Tube: A Brief History of Video Art&quot;  |
 | 2 | Aug 30 | [Video Art History](01b_videoArtHistory_pt1) <br> Demo: [Shooting video, DSLR, importing footage](tutorials/02a_shootingDSLR) <br> Demo: [Using mobile phones + Filmic app](tutorials/02b_shootingFilmicPro) <br> Portfolio Website introduction <br> Lab time and one-on-one meetings on Project 1 ideas  <br><br> **Due:** Project 1 idea   |
 | 3 | Sep 4 | Video Art History and the Internet <br> Premiere Pro Tutorial 2 <br> In-Class Exercise 2 - Shooting Video: Shoot and edit a short video <br><br> **Due at end of class:** In-Class Exercise 1 - Premiere |
-| 3 | Sep 6 | Video Art: Installation + Performance <br> Introduction to Project 2: Video in the Gallery <br> Demo: Using Github Desktop and Atom text editor  <br><br> **Due:** Portfolio Website progress: live on GitHub <br> **Due at end of class:** In-Class Exercise 2 - Shooting Video   |
-| 4 | Sep 11 | Lab and Project 1 one-on-one meetings <br> Demo: Portfolio Website fine touches <br><br> **Due:** Project 1 progress  |
-| 4 | Sep 13 | Project 1 Critique <br><br> **Due:** Project 1 <br> **Reading:** TBA   |
-| 5 | Sep 18 | Project 1 Critique (cont) <br> Demo: Projection Mapping <br> Video Art: Copyright and Found Footage <br><br> **Due:** Response to reading   |
-| 5 | Sep 20 | In-Class Exercise 3: Projection Mapping in groups using projectors <br> Video Art and Installation examples and/or SJMA field trip  <br><br> **Due:** Project 2 ideas <br> **Due:** Portfolio Website with Project 1   |
-| 6 | Sep 25 | Introduction to New Media Art and Project 3: Critical Interaction <br><br> **Due by end of class:** In-Class Exercise 3 - Projection mapping  |
-| 6 | Sep 27 | Share Project 2 progress in groups <br> Tutorial: Intro to coding with P5 <br> In-Class Exercise 4 - P5 variables: Make something move in P5 and add sketch to portfolio website  <br><br> **Due:** Project 2 progress <br> **Due by end of class:** In-Class Exercise 4 - P5  |
-| 7 | Oct 2 | Project 2 Critique  <br><br> **Due:** Project 2 |
-| 7 | Oct 4 | Project 2 Critique (cont)  <br> **Reading:** TBA  |
-| 8 | Oct 9 | New Media Art <br> Tutorial: p5 Logical Operations <br> In-Class Exercise 5: P5 display image and if statements   |
-| 8 | Oct 11 | New Media Art <br> Tutorial: p5 Loops <br> In-Class Exercise 6: P5 loops  <br><br> **Due at end of class:** In-Class Exercise  5 &amp; 6 - P5 image/if-statements &amp; loops |
-| 9 | Oct 16 | New Media Art <br> Tutorial: p5 Functions <br> In-Class Exercise 7: P5 Interaction + Functions, Controlling Video in P5 with mouse and key press <br><br> **Due:** Project 3 ideas |
+| 3 | Sep 6 | Video Art: Installation + Performance <br> Introduction to Project 2: Video in the Gallery <br> Demo: Using Github Desktop and Atom text editor  <br><br>  **Due at end of class:** In-Class Exercise 2 - Shooting Video   |
+| 4 | Sep 11 | Video Art: Installation + Performance <br>Introduction to [Project 2: Video in the Gallery](https://github.com/art75/SJSU-art75#project-2-installation)<br> Lab and Project 1 one-on-one meetings <br><br> **Due:** Portfolio Website progress: live on GitHub <br>**Due:** Project 1 progress  |
+| 4 | Sep 13 | Demo: Portfolio Website fine touches <br> Lab and Project 1 one-on-one meetings<br> <br> **Reading:** TBA     |
+| 5 | Sep 18 | Project 1 Critique <br><br> **Due:** Project 1   |
+| 5 | Sep 20 | Project 1 Critique (cont) <br><br> **Due:** Portfolio Website with Project 1  <br> **Due:** Response to reading |
+| 6 | Sep 25 | In-Class Exercise 3: Projection Mapping in groups using projectors <br> Video Art and Installation examples and/or SJMA field trip  <br><br> **Due:** Project 2 ideas  |
+| 6 | Sep 27 | Introduction to New Media Art and Project 3: Critical Interaction <br><br> **Due by end of class:** In-Class Exercise 3 - Projection mapping  |
+| 7 | Oct 2 | Share Project 2 progress in groups <br> Tutorial: Intro to coding with P5 <br> In-Class Exercise 4 - P5 variables: Make something move in P5 and add sketch to portfolio website  <br><br>**Due:** Project 2 progress <br>  **Due by end of class:** In-Class Exercise 4 - P5  |
+| 7 | Oct 4 | New Media Art <br> Tutorial: p5 Logical Operations & Loops <br> In-Class Exercises 5 & 6: P5 display image and if statements & loops<br><br>  |
+| 8 | Oct 9 | **Project 2 Critique** <br><br>**Due:** Project 2
+| 8 | Oct 11 | **Project 2 Critique (cont)** <br> Tutorial: p5 (cont) <br> In-Class Exercises 5 & 6 continued: P5 loops  <br><br> **Due at end of class:** In-Class Exercise  5 &amp; 6 - P5 image/if-statements &amp; loops<br>**Reading** :TBA |
+| 9 | Oct 16 | New Media Art <br> Tutorial: p5 Functions <br> In-Class Exercise 7: P5 Interaction + Functions, Controlling Video in P5 with mouse and key press <br><br> **Due:** Project 3 ideas<br>**Due:** Reading Response |
 | 9 | Oct 18 | In-Class Exercise 8: Facial recognition and sensors <br> Lab and Individual meetings on Project 3  <br><br> **Due by end of class:** In-Class Exercises 7 - P5 interactions  |
 | 10 | Oct 23 | New Media and Video Art Overview <br> Introduction to Final Project: Build on one of the first 3 projects or ?? <br> Project 3 Lab  <br><br> **Due by end of class:** In-Class Exercises 8- P5 Facial recognition and sensors |
 | 10 | Oct 25 | Project 3 Critique  <br><br> **Due:** Project 3 <br> **Reading:** TBA |
@@ -42,7 +42,6 @@ Download the full syllabi for [Section 2 here](resources/Syllabus_Art75_section2
 | 16 | Dec 4 | Final Discussion: What is the future of New Media Art? <br> Peer Research Presentations <br> Lab – work on websites <br><br> **Due:** Peer Research presentations  |
 | 16 | Dec 6 | Last day of class <br> Portfolio Website critique <br><br>  **Due:** Website with documentation and project statements  |
 | 17 Final Exam | Dec 13  | Final review of student work: 7:15am - 9:30am  |
-
 <br>
 
 
@@ -56,3 +55,27 @@ Download the full syllabi for [Section 2 here](resources/Syllabus_Art75_section2
 
 <br>
 ***Our list:***
+
+- Two 5 minute breaks and a 30 min lunch at noon
+- start AND end on time
+- comfortable with silence
+- take space, leave space (if you notice you are someone who talks more than other people, step back and give others space)
+- food and beverages okay, but be aware of open beverages and ☠️ laptops ☠️
+- be respectful to other people's space and/or property
+- earbuds while editing
+- no such thing as bad ideas
+- be sensitive to how you give feedback
+- show up to critiques
+- "I" statements
+- speaking from your experience
+- be respectful when someone is speaking
+- "ouch oops/educate"
+- give both positive and critical feedback "compliment sandwich"
+- be careful not to patronize people during critique
+- don't be shy to give feedback
+- give constructive feedback
+- value critiques
+- nobody is perfect, welcome feedback
+- be open to feedback
+- help out and ask your classmates for help
+- When you get stuck in lab, follow this order: 1) do a search 2) ask a classmate 3) call lark

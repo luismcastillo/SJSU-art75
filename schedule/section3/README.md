@@ -55,3 +55,26 @@ Download the full syllabi for [Section 3 here](resources/Syllabus_Art75_section3
 
 <br>
 ***Our list:***
+- Two 5 minute breaks and a 30 min lunch at noon
+- start AND end on time
+- comfortable with silence
+- take space, leave space (if you notice you are someone who talks more than other people, step back and give others space)
+- food and beverages okay, but be aware of open beverages and ☠️ laptops ☠️
+- be respectful to other people's space and/or property
+- earbuds while editing
+- no such thing as bad ideas
+- be sensitive to how you give feedback
+- show up to critiques
+- "I" statements
+- speaking from your experience
+- be respectful when someone is speaking
+- "ouch oops/educate"
+- give both positive and critical feedback "compliment sandwich"
+- be careful not to patronize people during critique
+- don't be shy to give feedback
+- give constructive feedback
+- value critiques
+- nobody is perfect, welcome feedback
+- be open to feedback
+- help out and ask your classmates for help
+- When you get stuck in lab, follow this order: 1) do a search 2) ask a classmate 3) call lark
