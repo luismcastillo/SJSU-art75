@@ -1,6 +1,5 @@
 
-# HTML/CSS
-## Part 1: Creating a GitHub Page - Free hosting on GitHub!
+# Creating a GitHub Page - Free hosting on GitHub!
 
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇

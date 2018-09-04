@@ -21,3 +21,4 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Recording Audio](02c_recordingAudio)
 * [Filmic Conventions (types of shots and continuity editing)](02d_filmicConventions)
 * [Creating a GitHub personal page](03a_gitHubPageSetup)
+* [Using GitHub Desktop and Atom](tutorials/03b_gitHubDesktop-atom)
