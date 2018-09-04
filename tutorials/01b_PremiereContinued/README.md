@@ -90,17 +90,28 @@ Timeline Tips:
 * Move the image to the screen location you would like in your overall video
 
 # ▼△▼△▼ Replace a Clip
-++ in progress++
+**++ in progress++**
 
- dragging and holding option key
+![Replacing Clips](images/Premiere_29.png)
 
- if you want it to ripple = option delete
+ * To replace one clip with another, drag your new clip from the Source Monitor while holding Option/Alt key
+
+* If you want it to ripple = option delete
 delete an area
--can use razor tool but in and outs is better ... use colon and apostrophe - this will only lift/extract the active tracks
+
+* You can use razor tool but marking in and outs is better ... use colon and apostrophe - this will only lift/extract the active tracks.
+
+![Replacing Clips](images/Premiere_30.png)
+
+* Prepare the clip you would like to insert in the middle of a clip in your timeline in the Source Monitor (mark in/out if desired).
+
+* Position your playhead in the timeline where you would like that clip to be inserted.
+
+* Select the Source Monitor by clicking on it so it is highlighted, then press **,** (the comma key), and the clip will insert where the playhead is positioned.
  
 
 # ▼△▼△▼ Trimming a Clip
-++ in progress++
+**++ in progress++**
 
 - ripple edit tool 'b' or command keyboard modifier
 - e = shortcut for extended edit - instead of dragging clip to cursor.
@@ -121,7 +132,7 @@ if you want to edit just audio or video in synced clips, hold down option to jus
 # ▼△▼△▼ Audio Adjustments
 -->[links to more tutorials here](https://github.com/art75/SJSU-art75/tree/master/tutorials/01_Premiere#-working-with-audio)
 
-++ in progress++
+**++ in progress++**
 
 - difference between gain and volume
 - to change audio configurations for source audio, right click in project window and go to modify -> audio channels
@@ -134,9 +145,9 @@ if you want to edit just audio or video in synced clips, hold down option to jus
 
 # ▼△▼△▼ Expanded Color Correction
 
-++ in progress++
+Best Color Correction Workflow: First, correct individual shots, and then move from shot to shot checking and adjusting consistency.
 
-workflow: correct individual shots and then shot to shot consistency
+**++ in progress++**
 
 Basic tools
 
