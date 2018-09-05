@@ -350,12 +350,29 @@ You can create individual titles, but Premiere has a specific tool for creating 
 
 # ▼△▼△▼ EXPORTING
 
-Step-by-step tutorial on exporting.
+### ▼ Tip on selecting a region for export
 
-For project 1 audio, follow these steps but export as WAV
+When you export your sequence, Premiere will automatically export your entire timeline. If you have a clip set aside after the end of your sequence, Premiere will export that too.
+
+![Premiere default export region](assets/Premiere_exporting_00_1.png)
+
+<br>
+
+To get around this, you will need to activate the work area bar.
+
+
+![Activate work area](assets/Premiere_exporting_00_2.png)
+
+<br>
+Now that you can see the grey work area bar, you can select just the region of your sequence you want to export.
 
 ![Set work area](assets/Premiere_exporting_01.png)
 
+<br>
+
+---
+
+### ▼ Step-by-step guidelines for exporting
 ![Export Media](assets/Premiere_exporting_02.png)
 
 ![Open H.264 Preset menu](assets/Premiere_exporting_03.png)
