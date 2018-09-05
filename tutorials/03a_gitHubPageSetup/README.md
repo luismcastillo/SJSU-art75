@@ -10,7 +10,7 @@
 1. [What is GitHub?](#-what-is-github)
 2. [Create a GitHub Personal Page](#-creating-a-github-personal-page)
 3. [Link to another page](#-linking-to-another-page)
-4. [Embed video from Vimeo](#-embedding-vimeo-from-vimeo)
+4. [Embed video from Vimeo](#-embedding-video-from-vimeo)
 5. [Using Developer Tools](#-using-developer-tools)
 6. [Add divs and center images](#-add-divs-and-center-images)
 7. [Responsive iframes: Making Video resize for mobile](#-responsive-iframes-making-video-resize-for-mobile)
@@ -450,7 +450,7 @@ If you want to change the styling (border, etc), you can make changes to the 'if
 <br>
 <br>
 
-# ▼△▼△▼  Using Developer Tools
+# ▼△▼△▼ Using Developer Tools
 Big Tip:
 *** REMEMBER TO USE DEV TOOLS IN YOUR BROWSER. YOU CAN RIGHT CLICK --> INSPECT ANY ITEM ON THE PAGE TO LOOK AT THE HTML/CSS FOR THAT ELEMENT ***
 
@@ -561,7 +561,7 @@ In CSS, comments are contained within /\* forward slashes with asterisks facing 
 
 
 
-# ▼△▼△▼  Responsive iframes: Making Video resize for mobile
+# ▼△▼△▼ Responsive iframes: Making Video resize for mobile
 
 Right now, your video embeds will stay the same size, even if the window shrinks (or is displayed on mobile devices).
 
