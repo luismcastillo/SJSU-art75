@@ -7,19 +7,23 @@
 
 #### On this page:
 
-1. Tutorial for creating a GitHub Page
-2. Link to another page
-3. Embed video from Vimeo
-4. Snazzing up the CSS
-5. Making Vimeo embeds resize for mobile
+1. [What is GitHub?](#-what-is-github)
+2. [Create a GitHub Personal Page](#-creating-a-github-personal-page)
+3. [Link to another page](#-linking-to-another-page)
+4. [Embed video from Vimeo](#-embedding-vimeo-from-vimeo)
+5. [Using Developer Tools](#-using-developer-tools)
+6. [Add divs and center images](#-add-divs-and-center-images)
+7. [Responsive iframes: Making Video resize for mobile](#-responsive-iframes-making-video-resize-for-mobile)
 
 <br />
 
 ---
 
+<br>
 
+# ▼△▼△▼ What is GitHub?
 
-**What is Git & GitHub?**
+### What is Git & GitHub?
 
 Git is a version control system that allows you to track changes to files over time, and allows you to revert to previous versions.
 
@@ -29,7 +33,7 @@ Each project is contained in a "repository." Think of it as a independent folder
 <br>
 <br>
 
-**What is a GitHub page?**
+### What is a GitHub page?
 
 A GitHub page is a public webpage hosted for free through your GitHub account. You can have one personal GitHub page at: http:// yourGitHubUsername.github.io, and others for individual projects. We're going to set up the personal main page (it's a little easier to do), but if you want to, read about the differences and follow this [tutorial for creating GitHub Project Pages.](https://www.thinkful.com/learn/a-guide-to-using-github-pages/).
 
@@ -41,7 +45,7 @@ A GitHub page is a public webpage hosted for free through your GitHub account. Y
 ---
 <br>
 
-## ▼△▼△▼ Creating a GitHub Personal Page
+# ▼△▼△▼ Creating a GitHub Personal Page
 
 <br>
 <br>
@@ -55,9 +59,10 @@ Create a new repository
 
 Name repository username.github.io, where ***'username' is YOUR github username.***
 
-REPEAT: The repository needs to be named EXACTLY the same as your account username, followed by github.io
+#### REPEAT: The repository needs to be named EXACTLY the same as your account username, followed by github.io ----> for example: username.github.io
 
-Click 'Initialize with a README' and create.
+Click 'Initialize with a README' and create. You can make it private if you want, people will still be able to see the website live.
+
 <br>
 <br>
 
@@ -81,7 +86,7 @@ Click on the pencil to enter edit mode.
 <br>
 <br>
 
-Now you can edit the README file in markdown. Check out [this tutorial](https://www.markdowntutorial.com/) to learn how to use markdown, or just make changes to the text I used (copy and paste from below).
+Now you can edit the README file in markdown. Check out [this tutorial](https://www.markdowntutorial.com/) to learn how to use markdown, or just customize the text I used (copy and paste from below).
 <br>
 <br>
 
@@ -122,7 +127,9 @@ Click 'create new file.'
 <br>
 <br>
 
-Name this document index.html and copy and paste the code (below), to get you started. Edit it to your liking. The title tag is what appears in your browser tab. h1 is the header/title text for the page, and p is normal text (paragraph).
+Name this document index.html and copy and paste the code (below), to get you started.
+
+The title tag (Your Name) is what appears in your browser tab. h1 is the header/title text for the page, and p is normal text (paragraph) ----> Edit them to make it yours.
 <br>
 <br>
 
@@ -251,7 +258,7 @@ Note all the colors are in ***hexcodes***, a hashtag followed by six numbers or 
 ---
 <br>
 
-## ▼△▼△▼ Link to another page
+# ▼△▼△▼ Linking to another page
 
 <br>
 
@@ -393,7 +400,7 @@ Note I changed the 'title' of the HTML page when we made the artist's statement.
 <br>
 <br>
 
-## ▼△▼△▼ Embedding Video from Vimeo
+# ▼△▼△▼ Embedding Video from Vimeo
 
 <br>
 <br>
@@ -443,17 +450,38 @@ If you want to change the styling (border, etc), you can make changes to the 'if
 <br>
 <br>
 
+# ▼△▼△▼  Using Developer Tools
+Big Tip:
+*** REMEMBER TO USE DEV TOOLS IN YOUR BROWSER. YOU CAN RIGHT CLICK --> INSPECT ANY ITEM ON THE PAGE TO LOOK AT THE HTML/CSS FOR THAT ELEMENT ***
 
-## ▼△▼△▼ Snazz it up
 
+![Developer Tools](assets/createGitHubPage_31.png)
+
+<br>
+<br>
+
+# ▼△▼△▼ Add divs and center images
+
+<br>
+
+I added some CSS to create divs (containers) for each portfolio item, and center images inside them.  **You can download all this code in the [demos folder.](/demos)**
+
+<br>
+
+A big first step in learning HTML/CSS is to understand the difference between tags, classes, and IDs.
+* [Simple explanation on HTML dog](http://www.htmldog.com/guides/css/intermediate/classid/)
+* [More detailed overview on CSS-tricks.com](https://css-tricks.com/the-difference-between-id-and-class/)
+
+If you get used to those concepts, you should be able to understand what most HTML/CSS templates are doing, and look things up as you need them.
+
+There's more info about using templates and frameworks in the next tutorial.
+
+<br>
 <br>
 
 
 
-I added some CSS to create divs (containers) for each portfolio item, center images, and to make sure the video resizes with the window — code below. **You can download all this code in the [demos folder.](/demos)**
-
-<br>
-<br>
+## ▼ Center Images and add Divs for each portfolio item
 
 #### HTML file:
 portfolio items are placed in divs with class='portfolio-item'
@@ -526,27 +554,14 @@ In CSS, comments are contained within /\* forward slashes with asterisks facing 
       background-color: #f7f7f7;
     }
 
-<br>
-<br>
-
-A big first step in learning HTML/CSS is to understand the difference between tags, classes, and IDs.
-* [Simple explanation on HTML dog](http://www.htmldog.com/guides/css/intermediate/classid/)
-* [More detailed overview on CSS-tricks.com](https://css-tricks.com/the-difference-between-id-and-class/)
-
-If you get used to those concepts, you should be able to understand what most HTML/CSS templates are doing, and look things up as you need them.
-
-There's more info about using templates and frameworks in the next tutorial.
-
-Big Tip:
-*** REMEMBER TO USE DEV TOOLS IN YOUR BROWSER. YOU CAN RIGHT CLICK --> INSPECT ANY ITEM ON THE PAGE TO LOOK AT THE HTML/CSS FOR THAT ELEMENT ***
 
 <br>
 <br>
 
-*** ------> ONE LAST THING ***
 
 
-## ▼△▼△▼ Responsive iframes: videos that resize for mobile
+
+# ▼△▼△▼  Responsive iframes: Making Video resize for mobile
 
 Right now, your video embeds will stay the same size, even if the window shrinks (or is displayed on mobile devices).
 
