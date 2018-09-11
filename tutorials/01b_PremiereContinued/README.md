@@ -54,9 +54,12 @@
 ![Timeline](images/Premiere_26.png)
 - You can target tracks by pre-selecting V1 (video) or A1 (audio) before moving your clip to the timeline.
 
-Timeline Tips:
-![Timeline](images/Premiere_27.png)
+**Timeline Tips:**
 
+Keyboard shortcuts for zooming in and out of ENTIRE Timeline: + or -
+![Timeline](images/Premiere_27.png)
+<br>
+Keyboard shortcuts for expanding height of a track: Cmd/Ctrl + or -
 ![Timeline](images/Premiere_28.png)
 
 # ▼△▼△▼ Adding Still Images
