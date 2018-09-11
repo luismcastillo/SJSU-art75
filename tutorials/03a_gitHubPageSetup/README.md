@@ -9,11 +9,12 @@
 
 1. [What is GitHub?](#-what-is-github)
 2. [Create a GitHub Personal Page](#-creating-a-github-personal-page)
-3. [Link to another page](#-linking-to-another-page)
-4. [Embed video from Vimeo](#-embedding-video-from-vimeo)
-5. [Using Developer Tools](#-using-developer-tools)
-6. [Add divs and center images](#-add-divs-and-center-images)
-7. [Responsive iframes: Making Video resize for mobile](#-responsive-iframes-making-video-resize-for-mobile)
+3. [Use GitHub Pages (for multiple repositories)](#-use-github-pages)
+4. [Link to another page](#-linking-to-another-page)
+5. [Embed video from Vimeo](#-embedding-video-from-vimeo)
+6. [Using Developer Tools](#-using-developer-tools)
+7. [Add divs and center images](#-add-divs-and-center-images)
+8. [Responsive iframes: Making Video resize for mobile](#-responsive-iframes-making-video-resize-for-mobile)
 
 <br />
 
@@ -255,6 +256,39 @@ Note all the colors are in ***hexcodes***, a hashtag followed by six numbers or 
 <br>
 <br>
 
+# ▼△▼△▼ Use GitHub Pages
+If you have used GitHub before and previously created a website with a github.io address, then you won't be able to make a second github.io site. However, you can create what GitHub calls a "project" site and publish it using [GitHub pages](https://pages.github.com/).
+
+
+![Create new project repository](assets/Art75_GithubPages.001.jpeg)
+
+To begin making a project site, follow the same steps above and create a new repository, but leave off the github.io at the end. Remember! When naming your repository, do not use underscores only dashes (if necessary). Create the README.md, index.html, and main.css files.
+
+![Create new project repository](assets/Art75_GithubPages.002.jpeg)
+
+Then find the 'Settings' tab:
+
+![Create new project repository](assets/Art75_GithubPages.003.jpeg)
+
+Scroll down to find the GitHub Pages section:
+
+![Create new project repository](assets/Art75_GithubPages.004.jpeg)
+
+Select Master Branch and Save:
+
+![Create new project repository](assets/Art75_GithubPages.005.jpeg)
+
+Click thru to the URL to see if your site is live. It may take a minute.
+
+![Create new project repository](assets/Art75_GithubPages.006.jpeg)
+
+Save this URL, and use it for now. We can change it later.
+
+![Create new project repository](assets/Art75_GithubPages.007.jpeg)
+
+Or, you may have been able to use your github.io url all along if you have not created one yet. However, if you plan to make a second site, GitHub pages is an option. 
+
+![Create new project repository](assets/Art75_GithubPages.008.jpeg)
 ---
 <br>
 
