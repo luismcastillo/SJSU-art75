@@ -93,14 +93,19 @@ Keyboard shortcuts for expanding height of a track: Cmd/Ctrl + or -
 * Move the image to the screen location you would like in your overall video
 
 # ▼△▼△▼ Replace a Clip
-**++ in progress++**
 
 ![Replacing Clips](images/Premiere_29.png)
 
  * To replace one clip with another, drag your new clip from the Source Monitor while holding Option/Alt key
 
+ ![Replacing Clips](images/Premiere_36.png)
+
 * If you want it to ripple = option delete
 delete an area
+
+ ![Replacing Clips](images/Premiere_34.png)
+
+ ![Replacing Clips](images/Premiere_35.png)
 
 * You can use razor tool but marking in and outs is better ... use colon and apostrophe - this will only lift/extract the active tracks.
 
@@ -114,16 +119,24 @@ delete an area
  
 
 # ▼△▼△▼ Trimming a Clip
-**++ in progress++**
 
-- ripple edit tool 'b' or command keyboard modifier
-- e = shortcut for extended edit - instead of dragging clip to cursor.
- 
-- rolling edit tool and rate stretch tool are hidden under ripple edit
- 
-option and arrow will trim left or right once edge is selected
- 
-if you want to edit just audio or video in synced clips, hold down option to just affect that track
+
+When your clips in your timeline have rough in and out marks, you can do more precise editing in the timeline. many editors rough it in first and then come back and refine.
+
+Use the **Ripple Edit Tool** or **B** key
+
+![Replacing Clips](images/Premiere_33.png)
+
+![Replacing Clips](images/Premiere_32.png)
+
+**e** is the shortcut for extended edit - instead of dragging clip to cursor.
+
+![Replacing Clips](images/Premiere_31.png)
+
+More options to try: <br>
+* The rolling edit tool and rate stretch tool are hidden under ripple edit.
+* Option and arrow will trim left or right once edge is selected
+* If you want to edit just audio or video in synced clips, hold down Opt or Alt to just affect that track
 
 # ▼△▼△▼ Rate Stretch Tool
 
@@ -135,11 +148,40 @@ if you want to edit just audio or video in synced clips, hold down option to jus
 # ▼△▼△▼ Audio Adjustments
 -->[links to more tutorials here](https://github.com/art75/SJSU-art75/tree/master/tutorials/01_Premiere#-working-with-audio)
 
-**++ in progress++**
+First! The difference between **gain** and **volume**. Both refer to loudness of audio.
 
-- difference between gain and volume
-- to change audio configurations for source audio, right click in project window and go to modify -> audio channels
-- shortcut for raising lowering volume is brackets
+**Gain** = the input level, or the first control in the microphone when recorded <br>
+**Volume** = the output level, or the control after it has been processed (edited)
+
+Gain generally refers to the input level or volume in **clips**. Volume generally refers to the output level or the volume in **sequence clips** or tracks. You can set gain or volume levels to make levels more consistent among tracks or clips, or to change the volume of a track or clip. Keep in mind, however, that if the level of an audio clip was set too low when it was digitized, increasing the gain or volume might simply amplify noise. For best results, follow the standard practice of recording or digitizing source audio at the optimum level; this practice allows you to concentrate on adjusting track levels.
+
+![Audio](images/Premiere_59.png)
+
+![Audio](images/Premiere_58.png)
+
+![Audio](images/Premiere_55.png)
+
+**To adjust gain**
+
+First check and adjust gain in your source clips. make a baseline adjustment so that the dB level is between **-6 and -12**, then later adjust volume in your sequence.
+
+![Audio](images/Premiere_54.png)
+
+
+* Also, to change audio configurations for source audio, right click in project window and go to modify -> audio channels. Here you can adjust Stereo and Mono.
+
+![Audio](images/Premiere_57.png)
+
+![Audio](images/Premiere_56.png)
+
+
+![Audio](images/Premiere_53.png)
+
+- The shortcut for raising lowering volume is the left and right brackets
+
+![Audio](images/Premiere_52.png)
+
+
 - add keyframes in timeline, command or control click on volume level bar itself  
 - bracket shortcut applies to keyframes
 - delete keyframes by just hitting delete
@@ -148,17 +190,24 @@ if you want to edit just audio or video in synced clips, hold down option to jus
 
 # ▼△▼△▼ Expanded Color Correction
 
-Best Color Correction Workflow: First, correct individual shots, and then move from shot to shot checking and adjusting consistency.
+**Best Color Correction Workflow**: First, correct individual shots, and then move from shot to shot checking and adjusting consistency.
+
+![Color](images/Premiere_51.png)
+
+![Color](images/Premiere_49.png)
+
+![Color](images/Premiere_50.png)
+
 
 **++ in progress++**
 
-Basic tools
+**Basic tools**
 
 - lumetri scopes: parade and waveform
 
 - auto color, auto contrast, auto levels are all obsolete effects that can help
 
-lumetri color correction 
+**lumetri color correction**
 - hit auto at bottom
 
 first do tone = exposure contrast
@@ -167,5 +216,5 @@ tone:
 - whites/blacks = white/black point = adjust upper and lower limits
     - common to raise white point and lower black point to make it more contrasty
 
-white balance
-- use dropper on a white point
+**To adjust white balance**
+- use dropper on a white point, and adjust from there.
