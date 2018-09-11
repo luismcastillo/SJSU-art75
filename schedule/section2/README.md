@@ -13,10 +13,10 @@ Download the full syllabi for [Section 2 here](resources/Syllabus_Art75_section2
 | 1 | Aug 23 | [Video Art Pre-History](../../01a_videoArtPreHistory) and (first half of) [Video Art History](01b_videoArtHistory_pt1) <br> Introduction to Project 1: Video as Cultural Critique <br><br> **Reading:** [Kate Horsfield, &quot;Busting the Tube: A Brief History of Video Art&quot;](../../readings/*horsfield_busting-the-tube_brief-history-of-video-art)  |
 | 2 | Aug 28 | [Premiere Pro Tutorial 1](../../tutorials/01_Premiere) <br> In-Class Exercise 1 - Premiere: Use given footage and create an edited 30 second video <br> Class discussion in response to reading <br><br> **Due:** Response to reading - Kate Horsfield, &quot;Busting the Tube: A Brief History of Video Art&quot;  |
 | 2 | Aug 30 | [Video Art History](01b_videoArtHistory_pt1) <br> <br> Portfolio Website introduction <br> Lab time and one-on-one meetings on Project 1 ideas  <br><br> **Due:** Project 1 idea   |
-| 3 | Sep 4 | Demo: [Shooting video, DSLR, importing footage](tutorials/02a_shootingDSLR) <br> Demo: [Using mobile phones + Filmic app](tutorials/02b_shootingFilmicPro) Video Art History and the Internet <br> In-Class Exercise 2 - Shooting Video: Shoot and edit a short video  |
-| 3 | Sep 6 | [Video Art History, 80s and 90s](01b_videoArtHistory_pt2) <br> Demo: Using Github Desktop and Atom text editor  <br><br> **Due at end of class:** In-Class Exercise 1 - Premiere   |
-| 4 | Sep 11 | [Contemporary Video Art pt.1](lectures/02_ContemporaryVideoArt) <br>Introduction to [Project 2: Video in the Gallery](https://github.com/art75/SJSU-art75#project-2-installation)<br> Lab and Project 1 one-on-one meetings <br><br> **Due:** Project 1 progress  <br> **Due at end of class:** In-Class Exercise 2 - Shooting Video|
-| 4 | Sep 13 | Demo: Portfolio Website fine touches <br> Lab and Project 1 one-on-one meetings<br> <br> **Due:** Portfolio Website progress: live on GitHub <br>**Reading:** TBA     |
+| 3 | Sep 4 | Demo: [Shooting video, DSLR, importing footage](tutorials/02a_shootingDSLR) <br> Demo: [Using mobile phones + Filmic app](tutorials/02b_shootingFilmicPro) <br>Video Art History and the Internet <br> In-Class Exercise 2 - Shooting Video: Shoot and edit a short video  |
+| 3 | Sep 6 | [Video Art History, 80s and 90s](01b_videoArtHistory_pt2)   <br><br> **Due at end of class:** In-Class Exercise 1 - Premiere   |
+| 4 | Sep 11 | Demo: [Make a GitHub personal page](../../tutorials/03a_gitHubPageSetup) <br> [Premiere Pro Tutorial 2](../../tutorials/01b_Premiere) <br> Lab and Project 1 one-on-one meetings <br><br> **Due:** Project 1 progress  <br> **Due at end of class:** In-Class Exercise 2 - Shooting Video|
+| 4 | Sep 13 | [Contemporary Video Art pt.1](lectures/02_ContemporaryVideoArt) <br>Introduction to [Project 2: Video in the Gallery](https://github.com/art75/SJSU-art75#project-2-installation) <br> Demo: [Using Github Desktop and Atom text editor](../../tutorials/03b_gitHubDesktop-atom) and [Portfolio Website fine touches](../../tutorials/03c_finalTouches_portfolioTips) <br> Lab and Project 1 one-on-one meetings<br> <br> **Due:** Portfolio Website progress: live on GitHub <br>**Reading:** TBA     |
 | 5 | Sep 18 | Project 1 Critique <br><br> **Due:** Project 1   |
 | 5 | Sep 20 | Project 1 Critique (cont) <br><br> **Due:** Portfolio Website with Project 1  <br> **Due:** Response to reading |
 | 6 | Sep 25 | In-Class Exercise 3: Projection Mapping in groups using projectors <br> Video Art and Installation examples and/or SJMA field trip  <br><br> **Due:** Project 2 ideas  |
@@ -43,7 +43,6 @@ Download the full syllabi for [Section 2 here](resources/Syllabus_Art75_section2
 | 16 | Dec 6 | Last day of class <br> Portfolio Website critique <br><br>  **Due:** Website with documentation and project statements  |
 | 17 Final Exam | Dec 13  | Final review of student work: 7:15am - 9:30am  |
 <br>
-
 
 ## ▼△▼△▼ Group Agreements 🐼👾🐬
 
