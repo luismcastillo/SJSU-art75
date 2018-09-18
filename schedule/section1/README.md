@@ -54,5 +54,27 @@ Download the full syllabi for [Section 1 here](resources/Syllabus_Art75_section1
 2. What would make this a productive learning environment?
 
 
+* start AND end on time
+* take space, leave space (if you notice you are someone who talks more than other people, step back and give others space)
+* no such thing as bad ideas
+* be sensitive to how you give feedback
+* show up to critiques
+* "I" statements
+* speaking from your experience
+* be respectful when someone is speaking
+* give both positive and critical feedback "compliment sandwich"
+* be careful not to patronize people during critique
+* don't be shy to give feedback
+* give constructive feedback
+* value critiques
+* nobody is perfect, welcome feedback
+* be open to feedback
+* help out and ask your classmates for help
+* comfortable with silence
+
+* food and beverages okay, but be aware of open beverages and ☠️ laptops ☠️
+* be respectful to other people's space and/or property
+* earbuds while editing
+
 <br>
 ***Our list:***
