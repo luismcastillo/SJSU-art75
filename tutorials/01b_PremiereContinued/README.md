@@ -13,7 +13,7 @@
 5. [Replace a Clip](#-replace-a-clip)
 6. [Trimming a Clip](#-trimming-a-clip)
 7. [Rate Stretch Tool](#-rate-stretch-tool)
-8. [Audio Adjustments](#-audio-adjustments)
+8. [Basic Audio Adjustments](#-audio-adjustments)
 9. [Expanded Color Correction](#-expanded-color-correction)
 
 
