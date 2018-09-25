@@ -121,22 +121,66 @@ Before you begin, remember to prepare your files. Create a 'Photoshop Files' fol
 **Editing Still Images and Graphics in Photoshop:**
 
 ![Photoshop 1](images/Photoshop_1.png)
+* To place a still image (jpeg, png, tiff) that you can edit "live" in Photoshop in your sequence, begin with File>New>Photoshop File.
 
 ![Photoshop 1](images/Photoshop_2.png)
+* Here you will be asked to confirm that you want your Photoshop File to match your video sequence settings.
 
 ![Photoshop 1](images/Photoshop_3.png)
+* You should have already made a Photoshop File folder. Navigate to it as the place where your files will be saved.
 
 ![Photoshop 1](images/Photoshop_4.png)
+* Photoshop opens with a screen showing the aspect ratio of your sequence. The blue lines are guides or boundary lines that you can use, or ignore, depending on your image.
+* For example, you should center text within the boundary lines so that it is legible.
 
 ![Photoshop 1](images/Photoshop_5.png)
+* Use File>Place Emedded... to find your image that you plan to use.
 
 ![Photoshop 1](images/Photoshop_6.png)
 
 ![Photoshop 1](images/Photoshop_7.png)
+* Your image is now able to be moved in your screen.
 
 ![Photoshop 1](images/Photoshop_8.png)
+* After your image is placed, you can hold down Shift + Alt (win) or Shift + Opt (mac) to scale proportionally from the center.
+
+![Photoshop 1](images/Photoshop_31.png)
+* The 'place' option pops up when you click to another tool. When you have the image where you want it, click 'Place' to place the image.
+* (You can always move it later if you choose)
+
+![Photoshop 1](images/Photoshop_32.png)
+* When you go back to Premiere, you will see the psd (Photoshop document) file in your Project Window.
+
+![Photoshop 1](images/Photoshop_33.png)
+* You can place it in your timeline the same way you would another still or source media.
+
+![Photoshop 1](images/Photoshop_34.png)
+* The file is now a ‘live file’ and can be edited in Photoshop with changes reflected back in premiere.
+* Just click on the file and press ‘Ctrl + e’ (win) or ‘Cmd + e’ (mac) to edit the original. (Skip creating a ‘new library’ if asked)
+* You can also right click on the file in the Project Window and choose 'Edit in Adobe Photoshop'.
+
+![Photoshop 1](images/Photoshop_36.png)
+* Example: In Photoshop you can manipulate opacity and transparency using the 'Opacity' tool in the layers window.
+
+![Photoshop 1](images/Photoshop_35.png)
+* Example: You can see the transparent image overlaid in the video. 
+
 
 **Editing Video in Photoshop:**
+
+![Photoshop 1](images/Photoshop_37.png)
+
+![Photoshop 1](images/Photoshop_38.png)
+
+![Photoshop 1](images/Photoshop_39.png)
+
+![Photoshop 1](images/Photoshop_40.png)
+
+![Photoshop 1](images/Photoshop_41.png)
+
+![Photoshop 1](images/Photoshop_42.png)
+
+![Photoshop 1](images/Photoshop_43.png)
 
 ![Photoshop 1](images/Photoshop_9.png)
 
