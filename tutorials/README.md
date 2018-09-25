@@ -17,6 +17,7 @@ Check out links to web tutorials on the [resources page](../resources).
 
 * [Premiere](01_Premiere)
 * [Premiere Continued](01b_PremiereContinued)
+* [Premiere Dynamic Links and Still Images](01c_PremiereDynamicLinks)
 * [Shooting DSLR](02a_shootingDSLR)
 * [Shooting with FilmicPro](02b_shootingFilmicPro)
 * [Recording Audio](02c_recordingAudio)
