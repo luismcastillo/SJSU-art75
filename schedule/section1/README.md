@@ -53,7 +53,14 @@ Download the full syllabi for [Section 1 here](resources/Syllabus_Art75_section1
 
 2. What would make this a productive learning environment?
 
+* Give people your full attention
+* There’s no such thing as a dumb question
+* Give constructive criticism
+* Offer help if you notice that someone needs it
+* Don't put yourself in your critique feedback. Make sure it's about the person's work, not yourself
+* Don't be a jerk
 
+From Sections 2 & 3
 * start AND end on time
 * take space, leave space (if you notice you are someone who talks more than other people, step back and give others space)
 * no such thing as bad ideas
