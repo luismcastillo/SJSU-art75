@@ -26,3 +26,4 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Using GitHub Desktop and Atom](03b_gitHubDesktop-atom)
 * [Portfolio final touches and tips](03c_finalTouches_portfolioTips)
 * [Mad Mapper Projection Mapping](04a_MadMapper)
+* [Downloading Online Material + Using Creative Commons](Creative_Commons)
