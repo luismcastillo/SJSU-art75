@@ -40,6 +40,8 @@ What is helpful about working this way is that it is a **non-destructive workflo
 ![Audio 1](images/Audio_3.png)
 * Right click on your audio track and select 'Edit Clip in Adobe Audition'
 
+![Audio 1](images/Audio_28.png)
+
 ![Audio 1](images/Audio_19.png)
 * Your clip will show up Audition.
 
@@ -163,7 +165,7 @@ Before you begin, remember to prepare your files. Create a 'Photoshop Files' fol
 * Example: In Photoshop you can manipulate opacity and transparency using the 'Opacity' tool in the layers window.
 
 ![Photoshop 1](images/Photoshop_35.png)
-* Example: You can see the transparent image overlaid in the video. 
+* Example: You can see the transparent image overlaid in the video.
 
 
 **Editing Video in Photoshop:**
