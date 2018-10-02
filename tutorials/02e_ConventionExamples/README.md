@@ -4,7 +4,8 @@
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br>
 
-**See also: [Filmic Conventions](02d_filmicConventions)**
+**See also:<br>
+[Filmic Conventions](02d_filmicConventions)**
 
 **From Section 1:**
 Coming soon!
