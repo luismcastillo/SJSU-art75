@@ -5,7 +5,7 @@
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br />
 
-
+*Reference for common terms and techniques*
 
 ## ▼△▼△▼ Continuity editing
 

@@ -247,9 +247,3 @@ So the two different ways of importing Premiere into After Effects:
 2. Importing a static Premiere Project
 
 ![Import a Premiere Project](assets/AE_ImportPremiereProj.png)
-
-
-
-# ▼△▼△▼ Slow Motion
-
-# ▼△▼△▼ Keyframe with Still Images
