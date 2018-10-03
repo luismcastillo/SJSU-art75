@@ -13,8 +13,12 @@
 5. [Replace a Clip](#-replace-a-clip)
 6. [Trimming a Clip](#-trimming-a-clip)
 7. [Rate Stretch Tool](#-rate-stretch-tool)
-8. [Basic Audio Adjustments](#-audio-adjustments)
-9. [Expanded Color Correction](#-expanded-color-correction)
+8. [Freeze Frames](#-freeze-frames-and-stills)
+9. [Basic Audio Adjustments](#-audio-adjustments)
+10. [Expanded Color Correction](#-expanded-color-correction)
+
+<br>
+<br>
 
 
 # ▼△▼△▼ Aspect Ratio and Sequence
@@ -26,7 +30,6 @@
 ![Sequence](images/Premiere_11.png)
 
 ![Sequence](images/Premiere_12.png)
-
 
 
 ![Sequence](images/Premiere_9.png)
@@ -48,6 +51,8 @@
 
 * Here you can make adjustments to the frame rate and aspect ratio if needed.
 
+<br>
+<br>
 
 # ▼△▼△▼ Targeting Tracks
 
@@ -61,6 +66,9 @@ Keyboard shortcuts for zooming in and out of ENTIRE Timeline: + or -
 <br>
 Keyboard shortcuts for expanding height of a track: Cmd/Ctrl + or -
 ![Timeline](images/Premiere_28.png)
+
+<br>
+<br>
 
 # ▼△▼△▼ Adding Still Images
 
@@ -78,6 +86,9 @@ Keyboard shortcuts for expanding height of a track: Cmd/Ctrl + or -
 * You can drag your still images from the source monitor to the timeline, as with your video files.
 * To lengthen the amount of time that the still is in your video, drag one side or the other of the box on your timeline.
 
+<br>
+<br>
+
 # ▼△▼△▼ Picture in Picture
 
 ![Aspect Ratio](images/Premiere_14.png)
@@ -91,6 +102,9 @@ Keyboard shortcuts for expanding height of a track: Cmd/Ctrl + or -
 * To resize the clip that is overlaid, click on the clip in the Program Monitor and a wireframe and crosshairs will appear
 * Drag the wireframe until the clip is the size you would like
 * Move the image to the screen location you would like in your overall video
+
+<br>
+<br>
 
 # ▼△▼△▼ Replace a Clip
 
@@ -117,6 +131,8 @@ delete an area
 
 * Select the Source Monitor by clicking on it so it is highlighted, then press **,** (the comma key), and the clip will insert where the playhead is positioned.
  
+<br>
+<br>
 
 # ▼△▼△▼ Trimming a Clip
 
@@ -138,12 +154,39 @@ More options to try: <br>
 * Option and arrow will trim left or right once edge is selected
 * If you want to edit just audio or video in synced clips, hold down Opt or Alt to just affect that track
 
+<br>
+<br>
+
 # ▼△▼△▼ Rate Stretch Tool
 
 ![Sequence](images/Premiere_18.png)
 
-* To expand a clip on your timeline (beyond the out point you set in the Source Monitor) just drag the footage using your mouse on the timeline to change duration
-* You can also right click on the clip and select **speed/duration** to make adjustments to the speed and duration.
+* The Rate Stretch Tool is an easy way to create slow-motion or fast-motion effects by dragging out the length of your clip in your timeline
+* With the tool selected, just drag the footage using your mouse on the timeline to change duration
+* Another way to create slow/fast motion is to right click on the clip and select **speed/duration**. This will allow you to make numeric adjustments to the speed and duration (ie: 50% to slow it down to half-speed).
+
+<br>
+<br>
+
+
+# ▼△▼△▼ Freeze Frames and Stills
+
+![Photoshop 1](images/Photoshop_24.png)
+
+![Photoshop 1](images/Photoshop_25.png)
+
+![Photoshop 1](images/Photoshop_26.png)
+
+![Photoshop 1](images/Photoshop_27.png)
+
+![Photoshop 1](images/Photoshop_28.png)
+
+![Photoshop 1](images/Photoshop_29.png)
+
+![Photoshop 1](images/Photoshop_30.png)
+
+<br>
+<br>
 
 # ▼△▼△▼ Audio Adjustments
 -->[links to more tutorials here](https://github.com/art75/SJSU-art75/tree/master/tutorials/01_Premiere#-working-with-audio)
@@ -188,7 +231,12 @@ First check and adjust gain in your source clips. make a baseline adjustment so 
 - dissolves = shift cmmd D
 - show default length for cross dissolves in project settings
 
+<br>
+<br>
+
 # ▼△▼△▼ Expanded Color Correction
+
+*See intro to color correction in [Premiere Tutorial 1](../01_Premiere)*
 
 **Best Color Correction Workflow**: First, correct individual shots, and then move from shot to shot checking and adjusting consistency.
 
@@ -212,9 +260,9 @@ First check and adjust gain in your source clips. make a baseline adjustment so 
 
 first do tone = exposure contrast
 tone:
-- highlights/shadows affect just them and not others
 - whites/blacks = white/black point = adjust upper and lower limits
     - common to raise white point and lower black point to make it more contrasty
+- highlights/shadows affect just them and not others
 
 **To adjust white balance**
 - use dropper on a white point, and adjust from there.

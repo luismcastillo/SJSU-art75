@@ -11,9 +11,11 @@
 1. [Intro to Dynamic Links](#-intro-to-dynamic-links)
 2. [Editing Sound with Adobe Audition](#-editing-sound-with-adobe-audition)
 3. [Using Photoshop with Premiere](#-using-photoshop-with-premiere)
-4. [Freeze Frames](#-freeze-frames-and-stills)
-5. [Slow Motion](#-slow-motion)
-6. [Keyframe with Still Images](#-keyframe-with-still-images)
+4. [Tips on After Effects <-> Premiere Workflow](#-tips-on-after-effects-and-premiere-workflow)
+
+<br>
+<br>
+
 
 # ▼△▼△▼ Intro to Dynamic Links
 Dynamic Link is the Adobe technology that allows you to pull files and functions from other Adobe apps into your Premiere project. It is designed to make your workflow easier and helps reduce rendering and the number of files you have to hand back and forth.
@@ -22,6 +24,8 @@ Dynamic Link is the Adobe technology that allows you to pull files and functions
 
 For a full tutorial on Dynamic Links, including incorporating Adobe After Effects, go here for the [lynda.com tutorial on Dynamic Links and the Adobe Workflow](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Dynamic-Link-Adobe-Workflow/601824-2.html). We will not be diving into After Effects in this class, but you can expect to learn more in the advanced video class.
 
+<br>
+<br>
 
 # ▼△▼△▼ Editing Sound with Adobe Audition
 Adobe Audition is a companion program to Premiere Pro to edit audio. Through dynamic links, you can hand files off back and forth between the programs.
@@ -107,7 +111,8 @@ What is helpful about working this way is that it is a **non-destructive workflo
 **And always remember to Save as you go!**
 
 
-
+<br>
+<br>
 
 
 # ▼△▼△▼ Using Photoshop with Premiere
@@ -163,7 +168,7 @@ Before you begin, remember to prepare your files. Create a 'Photoshop Files' fol
 * Example: In Photoshop you can manipulate opacity and transparency using the 'Opacity' tool in the layers window.
 
 ![Photoshop 1](images/Photoshop_35.png)
-* Example: You can see the transparent image overlaid in the video. 
+* Example: You can see the transparent image overlaid in the video.
 
 
 **Editing Video in Photoshop:**
@@ -208,23 +213,39 @@ Before you begin, remember to prepare your files. Create a 'Photoshop Files' fol
 
 ![Photoshop 1](images/Photoshop_21.png)
 
+<br>
+<br>
+
+<br>
+<br>
 
 
-# ▼△▼△▼ Freeze Frames and Stills
+# ▼△▼△▼ Tips on After Effects and Premiere Workflow
 
-![Photoshop 1](images/Photoshop_24.png)
+Adobe Dynamic Link
 
-![Photoshop 1](images/Photoshop_25.png)
+Dynamic Link allows you to import *live* sequences from Premiere into After Effects, or *live* comps from AE into Premiere, so the items auto-update as you change files in either program.
 
-![Photoshop 1](images/Photoshop_26.png)
+Limitations:
+* You can only go in one direction via Dynamic Link, you can't have AE linking to Premiere AND Premiere linking to AE in the same project.
+* You can't see layers/tracks on the imported items.
 
-![Photoshop 1](images/Photoshop_27.png)
+So Dynamic Link works well for **AE --> Premiere workflow,** overlaying After Effects animation on Premiere sequences.
 
-![Photoshop 1](images/Photoshop_28.png)
+BUT if you want to go from **Premiere --> After Effects,** Dynamic Link will flatten Premiere sequences as a single track.
 
-![Photoshop 1](images/Photoshop_29.png)
+If you want to preserve Premiere video tracks in After Effects, you have to import a *static* Premiere Project, NOT using Dynamic Link. This means it won't update, so only move from Premiere to AE once your edits are locked.
 
-![Photoshop 1](images/Photoshop_30.png)
+So the two different ways of importing Premiere into After Effects:
+
+1. Using Dynamic Link
+
+![Using Dynamic Link](assets/AE_DynamicLinkPremiere.png)
+
+2. Importing a static Premiere Project
+
+![Import a Premiere Project](assets/AE_ImportPremiereProj.png)
+
 
 
 # ▼△▼△▼ Slow Motion
