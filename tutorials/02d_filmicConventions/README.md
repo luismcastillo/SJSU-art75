@@ -25,7 +25,7 @@ A shot of a character looking at something off-screen is followed by the shot of
 
 #### Cross-cutting / Parallel montage
 
-Cutting between different actions that are occurring at the same time. The terms are used interchangeably, though cross-cutting might refer more to something happening in the same place (someone stealing chips at a corner store while the clerk is on their phone), while parallel montage could be action in different locations (simultaneous action in different parts of the world). 
+Cutting between different actions that are occurring at the same time. The terms are used interchangeably, though cross-cutting might refer more to something happening in the same place (someone stealing chips at a corner store while the clerk is on their phone), while parallel montage could be action in different locations (simultaneous action in different parts of the world).
 
 #### The 180 degree rule
 
@@ -73,4 +73,5 @@ be expanded to a medium three shot, four shot, etc.
 <br>
 <br>
 
+[Convention Examples from section 1](02e_ConventionExamples)
 ---

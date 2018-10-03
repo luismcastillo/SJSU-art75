@@ -44,6 +44,8 @@ What is helpful about working this way is that it is a **non-destructive workflo
 ![Audio 1](images/Audio_3.png)
 * Right click on your audio track and select 'Edit Clip in Adobe Audition'
 
+![Audio 1](images/Audio_28.png)
+
 ![Audio 1](images/Audio_19.png)
 * Your clip will show up Audition.
 
