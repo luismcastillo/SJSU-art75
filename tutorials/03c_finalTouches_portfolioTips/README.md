@@ -14,18 +14,6 @@
 5. [Tips on making artist portfolios](#-tips-on-making-artist-portfolios)
 
 
-1) Adding favicons
-
-2) Custom domains
-
-3) HTTPS: Setting up secure SSL
-
-4) Using frameworks and templates for your HTML/CSS styling
-  * Templates
-  * Twitter Bootstrap
-
-5) Artist portfolio tips
-
 ---
 <br>
 
