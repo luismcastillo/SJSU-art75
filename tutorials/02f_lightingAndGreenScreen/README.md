@@ -5,10 +5,11 @@
 
 ##### Included on this page:
 
-1. [Intro to Dynamic Links](#-intro-to-dynamic-links)
-2. [Editing Sound with Adobe Audition](#-editing-sound-with-adobe-audition)
-3. [Using Photoshop with Premiere](#-using-photoshop-with-premiere)
-4. [Tips on After Effects <-> Premiere Workflow](#-tips-on-after-effects-and-premiere-workflow)
+1. [Lighting basics](#-lighting-basics)
+2. [Studio lighting](#-studio-lighting)
+3. [Green screen lighting](#-green-screen-lighting)
+4. [Keying out a green screen in Premiere](#-keying-out-a-green-screen-in-premiere)
+5. [Equipment tips](#-equipment-tips)
 
 <br>
 <br>
