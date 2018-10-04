@@ -28,6 +28,7 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Convention Examples](02e_ConventionExamples)
 * [Creating a GitHub personal page to host your portfolio](03a_gitHubPageSetup)
 * [Using GitHub Desktop and Atom](03b_gitHubDesktop-atom)
-* [Portfolio final touches and tips](03c_finalTouches_portfolioTips)
+* [CSS/HTML and Portfolio Tips](03c_finalTouches_portfolioTips)
+* [Introduction to internet and HTML/CSS](03d_Internet_HTML_CSS)
 * [Mad Mapper Projection Mapping](04a_MadMapper)
 * [Downloading Online Material + Using Creative Commons](Creative_Commons)

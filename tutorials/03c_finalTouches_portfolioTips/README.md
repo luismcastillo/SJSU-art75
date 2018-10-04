@@ -1,6 +1,6 @@
 
 # Portfolio!!!
-## Final touches & portfolio tips
+## More CSS/HTML & portfolio tips
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br />
@@ -78,20 +78,25 @@ You would have to learn a lot about modern CSS to get your website looking clean
 
 If you want to go this route, be sure to use media queries and (I would recommend) flexbox.
 
-Adapting templates or using a library/framework like Twitter Bootstrap are great options. CSS templates will probably allow for a little more customization, whereas using Twitter Bootstrap is a little more limiting since a lot of the styling is set by the framework.  
+Adapting templates or using a library/framework like Twitter Bootstrap are great options.
 
 ### Adapting CSS templates
 
-Templates are great! And it won't be hard to customize or plugin your javascript. There are many resources online ---> [templated.co](https://templated.co/) has a LOT of free templates to use.
+Templates are great! There are many resources online ---> [templated.co](https://templated.co/) has a LOT of free templates to use.
+
+You can find a lot of sample code on [W3 schools](https://www.w3schools.com/css/default.asp).
+
+*Warning*: Sometimes customizing templates can get sloppy if you have conflicting CSS rules.
 
 Many of these templates use [Sass](https://sass-lang.com/) as a preprocessor, so you might want to familiarize yourself with Sass if you go deep into customizing a template.
 
 ### Twitter Bootstrap
 
-
 Twitter Bootstrap is a framework that makes it EASY to create responsive websites that are designed for mobile-first.
 
-If you want to use Twitter Bootstrap, check out [tutorials mentioned in this post](https://www.quora.com/What-is-the-best-way-to-learn-Bootstrap/answer/Singh-Naina?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa) or go through the [W3 schools tutorials](https://www.w3schools.com/bootstrap4/default.asp)
+If you want to use Twitter Bootstrap, check out these tutorials:
+* [Lynda Bootstrap 4 Essential Training](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html). You can learn a lot in just the first 2 chapters (~1hr of tutorials)
+* Or go through the [W3 schools tutorials](https://www.w3schools.com/bootstrap4/default.asp)
 
 <br>
 <br>
