@@ -331,6 +331,8 @@ There are tools to sample colors and get their RGB values
 
 * Digital Color Meter - native utility in Mac OSX
 
+* For Windows, there are many free options. Try [Color Picker](http://www.color-picker.de/).
+
 * [Colorzilla](http://www.colorzilla.com/) is a browser extension for Chrome and Firefox that will give you the Hexcode and RGB value for any color on the page
 
 <br>
@@ -347,6 +349,12 @@ Transparency can be defined by an optional ***fourth parameter***, which also ra
 
 #### Getting wild
 
+Copy paste this code! Alter it. Try replacing some of the parameters with a random number.
+
+* To generate random numbers, check out the [p5 documentation for random( )](https://p5js.org/reference/#/p5/random)
+
+If you want to slow the framerate, you can use the frameRate( ) function in setup( ), [documentation here](https://p5js.org/reference/#/p5/frameRate)
+
     function setup() {
     	createCanvas(500, 500);
     	// background is very light grey
@@ -357,18 +365,17 @@ Transparency can be defined by an optional ***fourth parameter***, which also ra
 
     	// create bright green ellipse with white stroke
     	fill(0, 255, 0);
-    	// stroke is white
     	stroke(255, 255, 255);
     	ellipse(100, 100, 80, 80);
 
     	// make transparent rectangle
-    	// a color fill with a fourth argument will define transparency
-    	// fill has about 50% transparency
-    	fill(255, 100, 50, 125);
+    	// fourth argument will define transparency
+    	// 125 is 50% transparency (half of 255)
+    	fill(255, 100, 50, 127);
     	noStroke();
     	rect(100, 100, 80, 80);
 
-    	// stroke weight will set thickness of line
+    	// stroke color and transparency changes with mouse position
     	stroke(100, 200, mouseY, mouseX);
     	strokeWeight(5);
     	line(100, 100, mouseX, mouseY);
@@ -376,38 +383,28 @@ Transparency can be defined by an optional ***fourth parameter***, which also ra
 
 <br>
 
-Try changing color values to a random number.
-
-To create a random integer from 0 to 255: <br>
-random(255);
-
-
-To create random integer between 100 and 200: <br>
-random(100, 200);
-
 <br>
 
 # ▼△▼△▼ Variables
 
+
+
 #### Scope
+
+Scope refers to the visibility of variables. This visibility depends on where they are declared. *Global variables* can be accessed by any parts of the program, but *local variables* can only be accessed in the code block where they were declared.
 
 Variables declared at the top of your code are in the global scope. Variables declared in the setup() or draw() functions are only accessible within those functions.
 
-ES6, the latest version of JavaScript, uses 'let' to define variables at block-level scope (within bracket blocks). We will be using let, but in many tutorials you might see 'var'.
+    let globalVariable;
 
-    var myVariable;
-    let myBlockScopeVariable;
-    const MYCONSTANT;
 
-Constants are read-only, and are generally all-caps.
-
-Unlike Java (if you are familiar with Processing or Arduino), you do not need to declare a variable type in JavaScript — so no need for 'int' or 'float' or 'bool'.
+    function scopeExample() {
+      let localVariable;
+    }
 
 <br>
 
-
-
-Load this code, run it, and open up the developer's tools console in your browser (shortcut cmmd option i). See what errors and console logs you get. Move code around and observe how that changes.  
+Load this code, run it, see what errors and console logs you get. Move code around and observe how that changes.  
 
 
     function setup() {
@@ -421,19 +418,105 @@ Load this code, run it, and open up the developer's tools console in your browse
 
 <br>
 
-Note: Strings are defined within single '' or "" double quotes, and are text as-is.
 
-Without the quotes, console.log will log the *variable* named hello.
+#### Notes on strings
+
+Strings are defined within single '' or "" double quotes, and are text as-is.
+
+    console.log("hello");
+    console.log(hello);
+
+Without the quotes, console.log will print the *value of the variable* named hello, not the word "hello"
 
 Strings can be added together. Try adding this to your code:
 
-    let p = "pets";
+    let p = "pizza";
     let n = "Nala";
     console.log("My dog " + n + " loves " + p);
+
+
+***Note:*** Strings can also be written in \`backticks\`. These are called [*object literal*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) and allow for more functionality than normal quotations.
+
+<br>
+
+#### Declaring Variables
+
+
+Variables are declared by writing "let" or "var" and giving them a name.
+
+    let myVariable;
+
+Now the computer knows that there is a variable named: myVariable. But it is undefined: there is currently no *value* assigned to it.
+
+To give it a value, use the equals sign. You can assign value to a variable when it is declared, or wait until later in your code.
+
+    let myVariable = 2;
 
 <br>
 
 
-# ▼△▼△▼ Variables In-class exercise 4
+#### **What's the difference between let and var?**
 
-Draw a shape to your canvas and have it move across the screen using a variable that is updating in the draw loop.t
+ES6, the latest version of JavaScript, uses 'let' to define variables at block-level scope (within bracket blocks). We will be using let, but in many tutorials you might see 'var'.
+
+        var myVariable;
+        let myBlockScopeVariable;
+
+<br>
+
+#### Changing variable values
+
+Values of variables can be updated: you can *reassign* them with a new value.
+
+What will print to the console if this code was run?
+
+    let myVariable = 2;
+
+    function setup(){
+      console.log("myVariable is " + myVariable);
+      myVariable = 4;
+      console.log("now myVariable is " + myVariable);
+    }
+
+<br>
+
+What about this code? What would it print to the console?
+
+    let myVariable = 2;
+
+    function setup(){
+      console.log("myVariable is " + myVariable);
+    }
+
+    function draw(){
+      myVariable = myVariable + 1;
+      console.log("now myVariable is " + myVariable);
+    }
+
+myVariable = myVariable + 1; is *incrementing* the variable. This is used so often in code, there is a shortcut: myVariable++
+
+    // these are all the same:
+    x = x + 1;
+    x++;
+    x += 1;
+
+    // same with subtract!
+    x = x - 1;
+    x--;
+    x -= 1;
+
+    // and multiply!
+    x = x * 5;
+    x *= 5;
+
+To learn more, check out MDN's [documentation on assignment operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
+<br>
+
+
+# ▼△▼△▼ In-class exercise 4
+
+Draw a shape to your canvas and have it move across the screen.
+
+***Hint:*** use a variable that is updating the shape's position in the draw loop.
+
+Once your sketch is live on your website, submit the link to Canvas.
