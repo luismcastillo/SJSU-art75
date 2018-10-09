@@ -436,4 +436,4 @@ Strings can be added together. Try adding this to your code:
 
 # ▼△▼△▼ Variables In-class exercise 4
 
-Draw a shape to your canvas and have it move across the screen.
+Draw a shape to your canvas and have it move across the screen using a variable that is updating in the draw loop.t
