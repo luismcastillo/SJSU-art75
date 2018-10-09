@@ -60,13 +60,13 @@ ALWAYS refer to the p5 documentation online at p5js.org
 
 1. Download and unzip the [p5-blankExample folder](blankExamples/p5-blankExample.zip) from GitHub, in the *blankExamples folder* of this tutorial.
 
-* Copy it into your GitHub page local repository (the folder on your computer linked to the GitHub repo). Rename the folder "in-class_exercise_1"
+2. Copy it into your GitHub page local repository (the folder on your computer linked to the GitHub repo). Rename the folder "in-class_exercise_1"
 
-* Open it in Atom. Start a server by with the package we installed: Packages > atom-live-server > start server.
+3. Open it in Atom. Start a server by with the package we installed: Packages > atom-live-server > start server.
 
-* This will launch a browser page — if you add '/in-class_exercise_1' (or whatever you name the folder) to the end of the URL, it will display the contents of that directory: your p5 sketch live.
+4. This will launch a browser page — if you add '/in-class_exercise_1' (or whatever you name the folder) to the end of the URL, it will display the contents of that directory: your p5 sketch live.
 
-* It will just look like a black box for now...
+5. It will just look like a black box for now...
 
 ![blank p5 sketch](assets/introP5_00.png)
 
@@ -260,6 +260,7 @@ See [object primitives example](https://p5js.org/examples/form-shape-primitives.
       }
 
 
+See if you can write code to draw this!
 
 ![ellipse example](assets/introP5_07.png)
 
