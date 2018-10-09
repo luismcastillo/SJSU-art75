@@ -242,8 +242,8 @@ So the two different ways of importing Premiere into After Effects:
 
 1. Using Dynamic Link
 
-![Using Dynamic Link](assets/AE_DynamicLinkPremiere.png)
+![Using Dynamic Link](images/AE_DynamicLinkPremiere.png)
 
 2. Importing a static Premiere Project
 
-![Import a Premiere Project](assets/AE_ImportPremiereProj.png)
+![Import a Premiere Project](images/AE_ImportPremiereProj.png)

@@ -31,4 +31,5 @@ Check out links to web tutorials on the [resources page](../resources).
 * [CSS/HTML and Portfolio Tips](03c_finalTouches_portfolioTips)
 * [Introduction to internet and HTML/CSS](03d_Internet_HTML_CSS)
 * [Mad Mapper Projection Mapping](04a_MadMapper)
+* [p5 pt 1: Getting Started with p5](05a_p5_1_gettingStarted)
 * [Downloading Online Material + Using Creative Commons](Creative_Commons)
