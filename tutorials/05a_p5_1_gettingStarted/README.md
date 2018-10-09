@@ -9,13 +9,13 @@
 #### On this page:
 
 1. [Resources](#-resources)
-* [Getting Started](#-getting-started)
-* [Code Basics](#-code-basics)
-* [Structure of p5](#-structure-of-p5)
-* [Drawing Shapes](#-drawing-shapes)
-* [Color](#-color)
-* [Variables](#-variables)
-* [In-class exercise 4](#-in-class-exercise-4)
+2. [Getting Started](#-getting-started)
+3. [Code Basics](#-code-basics)
+4. [Structure of p5](#-structure-of-p5)
+5. [Drawing Shapes](#-drawing-shapes)
+6. [Color](#-color)
+7. [Variables](#-variables)
+8. [In-class exercise 4](#-in-class-exercise-4)
 
 
 **NOTE: This is not intended as a stand-alone tutorial. It is supplemental material for following along in class. For those of you who missed class, do follow along with the understanding that not everything is spelled out. Running the code and making changes to it is highly recommended.**
