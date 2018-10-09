@@ -325,6 +325,7 @@ What would this code look like?
       rect(200, 200, 20)
 
 <br>
+
 #### Finding RGB values
 
 There are tools to sample colors and get their RGB values
@@ -336,6 +337,7 @@ There are tools to sample colors and get their RGB values
 * [Colorzilla](http://www.colorzilla.com/) is a browser extension for Chrome and Firefox that will give you the Hexcode and RGB value for any color on the page
 
 <br>
+
 #### Transparency
 
 Transparency can be defined by an optional ***fourth parameter***, which also ranges from 0 - 255.
