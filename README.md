@@ -63,12 +63,12 @@ Requirements:
 
 ---
 #### Project 3: Critical Interactivity
-Create video that is affected by user input with the JavaScript p5 library. What does it mean when the viewer is no longer passive, but an active participant? This could be browser-based (Net Art, not games) or displayed in a physical environment on a projector or screen. We will build up to and provide code for mouse/keyboard interaction, facial recognition input, and physical sensors for movement in a room. These could affect video selection, speed, playback, pitch, etc.
+Create video for a web environment based on an early internet memory. What does it mean when the viewer is no longer passive, but an active participant in your work, on the internet? How does our experience of video change when it is embedded on a web page (vs in a gallery)? For this project, you will create both the video and the web environment. Your web environment should consist of 3 pages, and video should be embedded on at least one page. Other possibilities could be that your video is affected by user input with the JavaScript p5 library, have mouse/keyboard interaction, or facial recognition input.
 
 Requirements:
 * Strong concept driving the interaction
 * Original video or found footage that is affected by the interaction
-* Interactive environment in place for critique
+* Interactive website in place for critique
 
 ---
 #### Final Project
