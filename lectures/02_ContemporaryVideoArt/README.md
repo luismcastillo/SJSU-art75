@@ -15,7 +15,7 @@ Sylvia Martin, *Video Art*
 [Video Art & The Internet](https://github.com/art75/SJSU-art75/tree/master/lectures/02_ContemporaryVideoArt/Video%20and%20Internet)<br>
 [Video Art Installation](https://github.com/art75/SJSU-art75/tree/master/lectures/02_ContemporaryVideoArt/Video%20and%20Installation)<br>
 [Video & Found Footage](https://github.com/art75/SJSU-art75/tree/master/lectures/02_ContemporaryVideoArt/Video%20and%20Found%20Footage)<br>
-[Net Art](https://github.com/art75/SJSU-art75/tree/master/lectures/02_ContemporaryVideoArt/Net%20Art%20)<br>
+[Net Art](https://github.com/art75/SJSU-art75/tree/master/lectures/02_ContemporaryVideoArt/Net%20Art)<br>
 Video Art & Performance<br>
 Interactive Art<br>
 
