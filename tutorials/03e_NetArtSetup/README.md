@@ -129,7 +129,9 @@
 <br>
 <br>
 <br>
+
 # Now add a second page and link it to the homepage
+
 ![Net Art Website Setup](images/NetArt_Setup_27.png)
 <br>
 <br>
