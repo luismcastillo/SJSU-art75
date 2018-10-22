@@ -15,8 +15,6 @@
 # Net Art
 #### **Click through on each image to go to the net art piece and interact in your browser!**
 
-![Net Art](images/Art74_NetArt.001.jpeg)
-
 ![Net Art](images/Art74_NetArt.002.jpeg)
 
 ![Net Art](images/Art74_NetArt.003.jpeg)
