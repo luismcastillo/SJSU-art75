@@ -126,7 +126,8 @@ You can embed your video and sound pieces directly from vimeo, youtube, and soun
 
 <br>
 <br>
-# Individual Artwork Descriptions
+
+# Individual Artwork Descriptions<br>
 On your website, there are areas under your individual artworks for brief descriptions. These descriptions should be short (maximum 2-3 sentences) and clear descriptions of your concept and process.
 
 Imagine these as a description on the wall of a gallery. What information do you want/need to convey to the viewer for them to understand the piece as you intended it?

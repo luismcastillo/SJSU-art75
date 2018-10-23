@@ -1,5 +1,5 @@
 # Project 3 Video and Net Art Setup!
-## How to set up a new GitHub repository for Project 3 and host your project online
+## How to set up a new GitHub repository and enable GitHub pages for Project 3 and host your project online
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br />
@@ -74,7 +74,6 @@
 <br>
 <br>
 <br>
-<br>
 
 # Step 3 Create new files for your site in Atom
 
@@ -129,7 +128,9 @@
 <br>
 <br>
 <br>
+
 # Now add a second page and link it to the homepage
+
 ![Net Art Website Setup](images/NetArt_Setup_27.png)
 <br>
 <br>
