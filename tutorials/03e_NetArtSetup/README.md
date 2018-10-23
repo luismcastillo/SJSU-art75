@@ -74,7 +74,6 @@
 <br>
 <br>
 <br>
-<br>
 
 # Step 3 Create new files for your site in Atom
 
