@@ -41,7 +41,7 @@
 
 [![Net Art](images/Art74_NetArt.014.jpeg)](http://9-eyes.com/)
 
-[![Net Art](images/Art74_NetArt.015.jpeg)](https://www.cameronsworld.net/9)
+[![Net Art](images/Art74_NetArt.015.jpeg)](https://www.cameronsworld.net/)
 
 [![Net Art](images/Art74_NetArt.016.jpeg)](https://0100101110101101.org/biennale-py/)
 
