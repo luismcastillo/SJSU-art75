@@ -16,7 +16,7 @@
 2. [Custom Domains](#-custom-domains)
 3. [HTTPS Setting up secure SSL](#-https-setting-up-secure-ssl)
 4. [Using frameworks and templates for your CSS styling](#-using-frameworks-and-templates-for-your-css-styling)
-5. [Tips on making artist portfolios](#-tips-on-making-artist-portfolios)
+
 
 
 ---
@@ -93,25 +93,3 @@ If you want to use Twitter Bootstrap, check out these tutorials:
 
 <br>
 <br>
-
-# ▼△▼△▼ Tips on making artist portfolios
-
-
-Your portfolio should represent YOU and YOUR WORK.
-
-It will be hard to do this as a student, since you are still figuring out what kind of work you make. Getting you in the practice of writing and presenting your work in a web portfolio is the goal for now.
-
-For this class, I am looking for:
-
-1. Basic web design (using the code from the [gitHub pages demo](../05a_HTML-CSS_gitHubPage/demo) would be fine)
-
-2. Documentation of the projects you made for this class, with short descriptions about the CONCEPTS behind each piece.
-
-3. A two-paragraph artist statement. A general outline could be:
-
-*Paragraph 1:* Who are you and what do you care about as an artist. What kind of subjects do you explore in your work.
-
-*Paragraph 2:* How does the approaches you take in your work reflect your interests. What do you do to explore the ideas outlined in paragraph 1.
-
-If you are confused about what an artist statement looks like, the website [get your sh*t together](https://www.gyst-ink.com/artist-statement-guidelines/
-) lays it out nicely.
