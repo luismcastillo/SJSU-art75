@@ -53,8 +53,6 @@
 ![Net Art Website Setup](images/NetArt_Setup_012.png)
 <br>
 <br>
-<br>
-<br>
 
 # Step 2 Clone your GitHub repository to your computer
 
@@ -73,7 +71,6 @@
 ![Net Art Website Setup](images/NetArt_Setup_17.png)
 <br>
 <br>
-<br>
 
 # Step 3 Create new files for your site in Atom
 
@@ -88,8 +85,6 @@
 <br>
 
 ![Net Art Website Setup](images/NetArt_Setup_21.png)
-<br>
-<br>
 <br>
 <br>
 #### **Code to copy to index.html:**
@@ -109,8 +104,6 @@
 
 <br>
 <br>
-<br>
-<br>
 ![Net Art Website Setup](images/NetArt_Setup_22.png)
 <br>
 <br>
@@ -124,8 +117,6 @@
 <br>
 <br>
 ![Net Art Website Setup](images/NetArt_Setup_26.png)
-<br>
-<br>
 <br>
 <br>
 
