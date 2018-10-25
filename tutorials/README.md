@@ -29,15 +29,18 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Lighting and Green Screens](tuts/02f_lightingAndGreenScreen)
 * [Convention Examples](tuts/02e_ConventionExamples)
 
-**Website Portfolio & Net Art Project**
+**Portfolio Website**
+* [Internet Intro and HTML/CSS](tuts/03d_Internet_HTML_CSS)
 * [Creating a GitHub personal page to host your portfolio](tuts/03a_gitHubPageSetup)
 * [Using GitHub Desktop and Atom](tuts/03b_gitHubDesktop-atom)
 * [CSS/HTML and Portfolio Tips](tuts/03c_finalTouches_portfolioTips)
 * [Portfolio Website Content Guides](tuts/03f_WebPortfolio_Content)
-* [Internet Intro and HTML/CSS](tuts/03d_Internet_HTML_CSS)
+
+
+**Net Art Project**
 * [Creating a GitHub page to host your net art/project 3](tuts/03e_NetArt_Page)
 
-**p5- Creating Interactivity**
+**Javascript and p5- Creating Interactivity**
 * [p5 pt 1: Getting Started with p5](tuts/05a_p5_1_gettingStarted)
 * [p5 pt 2: Conditions, loops, and displaying images](tuts/05b_p5_2_conditionals-loops-images)
 * [p5 pt 3: Mouse/Key Events and functions](tuts/05c_p5_3_eventsAndFunctions)

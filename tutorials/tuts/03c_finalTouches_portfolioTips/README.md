@@ -1,6 +1,6 @@
 
 # Portfolio!!!
-## More CSS/HTML & portfolio tips
+## More CSS/HTML: Favicons, Custom Domains, SSL, & libraries to help
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br />
