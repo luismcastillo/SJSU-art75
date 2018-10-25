@@ -35,7 +35,7 @@ Check out links to web tutorials on the [resources page](../resources).
 * [CSS/HTML and Portfolio Tips](03c_finalTouches_portfolioTips)
 * [Portfolio Website Content Guides](03f_WebPortfolio_Content)
 * [Internet Intro and HTML/CSS](03d_Internet_HTML_CSS)
-* [Creating a GitHub page to host your net art/project 3](03e_NetArtSetup)
+* [Creating a GitHub page to host your net art/project 3](03e_NetArt_Page)
 
 **p5- Creating Interactivity**
 * [p5 pt 1: Getting Started with p5](05a_p5_1_gettingStarted)

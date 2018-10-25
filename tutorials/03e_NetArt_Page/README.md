@@ -1,8 +1,9 @@
-# Project 3 Video and Net Art Setup!
+# Project 3 Net Art Setup!
 ## How to set up a new GitHub repository and enable GitHub pages for Project 3 and host your project online
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
-<br />
+<br>
+
 
 #### **On this page:**
 1. [Step 1 Setup a New Repository in GitHub](#step-1-setup-a-new-repository-in-github)
@@ -17,40 +18,42 @@
 ## **Note:** GitHub only allows one 'github.io' website page per account, and you already have one. However, you can add other separate websites if you do not include 'github.io' on your repository name, and you enable GitHub pages.
 <br>
 <br>
-![Setup](images/NetArt_Setup_01.png)
+![Net Art Website Setup](images/NetArt_Setup_1.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_02.png)
+![Net Art Website Setup](images/NetArt_Setup_2.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_03.png)
+![Net Art Website Setup](images/NetArt_Setup_3.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_04.png)
+![Net Art Website Setup](images/NetArt_Setup_4.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_05.png)
+![Net Art Website Setup](images/NetArt_Setup_5.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_06.png)
+![Net Art Website Setup](images/NetArt_Setup_6.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_07.png)
+![Net Art Website Setup](images/NetArt_Setup_7.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_08.png)
+![Net Art Website Setup](images/NetArt_Setup_8.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_09.png)
+![Net Art Website Setup](images/NetArt_Setup_9.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_010.png)
+![Net Art Website Setup](images/NetArt_Setup_10.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_011.png)
+![Net Art Website Setup](images/NetArt_Setup_11.png)
 <br>
 <br>
-![Setup](images/NetArt_Setup_012.png)
+![Net Art Website Setup](images/NetArt_Setup_12.png)
+<br>
+<br>
 <br>
 <br>
 
@@ -71,6 +74,8 @@
 ![Net Art Website Setup](images/NetArt_Setup_17.png)
 <br>
 <br>
+<br>
+<br>
 
 # Step 3 Create new files for your site in Atom
 
@@ -85,6 +90,8 @@
 <br>
 
 ![Net Art Website Setup](images/NetArt_Setup_21.png)
+<br>
+<br>
 <br>
 <br>
 #### **Code to copy to index.html:**
@@ -104,6 +111,8 @@
 
 <br>
 <br>
+<br>
+<br>
 ![Net Art Website Setup](images/NetArt_Setup_22.png)
 <br>
 <br>
@@ -119,9 +128,9 @@
 ![Net Art Website Setup](images/NetArt_Setup_26.png)
 <br>
 <br>
-
+<br>
+<br>
 # Now add a second page and link it to the homepage
-
 ![Net Art Website Setup](images/NetArt_Setup_27.png)
 <br>
 <br>
@@ -251,7 +260,6 @@
 <br>
 <br>
 ![Net Art Website Setup](images/NetArt_Setup_58.png)
-<br>
 <br>
 <br>
 <br>
