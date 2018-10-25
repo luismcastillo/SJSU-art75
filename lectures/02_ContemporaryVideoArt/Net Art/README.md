@@ -25,7 +25,7 @@
 
 [![Net Art](images/Art74_NetArt.006.jpeg)](http://jodi.org/)
 
-[![Net Art](images/Art74_NetArt.007.jpeg)](joid.org/archive/)
+[![Net Art](images/Art74_NetArt.007.jpeg)](jodi.org/archive/)
 
 [![Net Art](images/Art74_NetArt.008.jpeg)](http://archive.rhizome.org/anthology/automatic-rain.html)
 
