@@ -30,15 +30,15 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Convention Examples](tuts/02e_ConventionExamples)
 
 **Portfolio Website**
-* [Internet Intro and HTML/CSS](tuts/03d_Internet_HTML_CSS)
-* [Creating a GitHub personal page to host your portfolio](tuts/03a_gitHubPageSetup)
-* [Using GitHub Desktop and Atom](tuts/03b_gitHubDesktop-atom)
-* [CSS/HTML and Portfolio Tips](tuts/03c_finalTouches_portfolioTips)
-* [Portfolio Website Content Guides](tuts/03f_WebPortfolio_Content)
+* [Intro to the internet! HTML/CSS](tuts/03a_introToInternet)
+* [Creating a GitHub personal page to host your portfolio](tuts/03b_gitHubPageSetup)
+* [Using GitHub Desktop and Atom to write code and sync your files](tuts/03c_gitHubDesktop-atom)
+* [More CSS/HTML: Favicons, custom domains, SSL, and libraries to help](tuts/03d_moreHTMLCSS)
+* [Portfolio Website Content Guides](tuts/03e_WebPortfolio_Content)
 
 
 **Net Art Project**
-* [Creating a GitHub page to host your net art/project 3](tuts/03e_NetArt_Page)
+* [Creating a GitHub page to host your net art/project 3](tuts/04a_netArt_repositorySetup)
 
 **Javascript and p5- Creating Interactivity**
 * [p5 pt 1: Getting Started with p5](tuts/05a_p5_1_gettingStarted)
@@ -51,4 +51,4 @@ Check out links to web tutorials on the [resources page](../resources).
 
 **Other Tutorials**
 * [Downloading Online Material + Using Creative Commons](tuts/Creative_Commons)
-* [Mad Mapper Projection Mapping](tuts/04a_MadMapper)
+* [Mad Mapper Projection Mapping](tuts/MadMapper)

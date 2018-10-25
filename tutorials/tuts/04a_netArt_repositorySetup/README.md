@@ -1,5 +1,6 @@
-# Project 3 Net Art Setup!
-## How to set up a new GitHub repository and enable GitHub pages for Project 3 and host your project online
+# Project 3 Net Art Setup
+### How to set up a new GitHub repository for your Net Art / Project 3 and enable GitHub pages to host it online
+
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br>
