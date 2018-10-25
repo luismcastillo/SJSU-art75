@@ -46,6 +46,8 @@ ALWAYS refer to the p5 documentation online at p5js.org
 
 <br>
 
+[Allison Parrish's tutorials](https://creative-coding.decontextualize.com/) are also excellent, and one of the sources used to compile these tutorials (thanks Allison!)
+
 **Books:**
 
 * [*Getting Started with p5.js*](https://p5js.org/books/)
