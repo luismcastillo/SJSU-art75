@@ -11,7 +11,7 @@
 3. [Artist Statements](#artist-statements)
 4. [Individual Artwork Descriptions](#individual-artwork-descriptions)
 5. [Resizing Images](#resizing-images)
-6. [Embedding Videos and Sound](#embedding-videos-and-sound)
+6. [Embedding Videos](#embedding-videos)
 
 
 
@@ -76,6 +76,8 @@ I used hot dog buns filled with cardboard as a metaphor to the toxicity of cultu
 # Resizing Images
 **Why is it important to resize your images for the web?** When your images are sized to match the same dimensions and resolution as displayed on your website, they load faster. Computer screens generally have a max resolution of 72 dpi. If your image is larger, then the computer loading your site has to resize your images before displaying them. When you size your images correctly, the computer showing your website doesn't have to adjust the size from the original file size in your website folder to the display size on the screen, so they load faster.
 
+After you resize, you can further compress jpgs and pngs using an online compresser like [tinyjpg.com](https://tinyjpg.com/).
+
 ### **Resizing for web:**
 
 ![Resize Images](images/Resize_1.png)
@@ -106,8 +108,8 @@ All of your images will load at the size you determined in Photoshop UNLESS you 
 
 ![HTML Images](images/HTML_images.png)
 
-# Embedding Videos and Sound
-You can embed your video and sound pieces directly from vimeo, youtube, and soundcloud. Here is a step by step guide:
+# Embedding Videos
+You can embed your video directly from vimeo or youtube using the HTML iframe tag. Here is a step by step guide:
 
 ### Video from Vimeo and YouTube
 ![Embed Media](images/Embed_1.png)
@@ -138,48 +140,3 @@ You can embed your video and sound pieces directly from vimeo, youtube, and soun
 <br>
 <br>
 **Preview and watch your video on your portfolio page!**
-
-### Sound from Soundcloud
-<br>
-**First, prepare your html document for the code:**
-<br>
-<br>
-<img src="images/Embed_10.png">
-<br>
-<br>
-<img src="images/Embed_11.png">
-<br>
-<br>
-<img src="images/Embed_7.png">
-<br>
-<br>
-<img src="images/Embed_8.png">
-<br>
-<br>
-<img src="images/Embed_9.png">
-<br>
-<br>
-<img src="images/Embed_12.png">
-<br>
-<br>
-<img src="images/Embed_13.png">
-<br>
-<br>
-<img src="images/Embed_14.png">
-<br>
-<br>
-<img src="images/Embed_15.png">
-<br>
-<br>
-<img src="images/Embed_16.png">
-<br>
-<br>
-<img src="images/Embed_17.png">
-<br>
-<br>
-<img src="images/Embed_18.png">
-<br>
-<br>
-
-<br>
-<br>
