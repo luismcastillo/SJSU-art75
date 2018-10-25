@@ -14,6 +14,8 @@
 
 <br>
 
+🔍[Live site](https://art75.github.io/) with code samples and student net art gallery
+
  ***On this page:***
  * [Description](#-description)
  * [Resources](#-resources)
