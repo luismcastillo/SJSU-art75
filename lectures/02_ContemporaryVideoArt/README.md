@@ -39,9 +39,6 @@ Interactive Art<br>
 * Rashad Newsome [*The Conductor*](http://rashaadnewsome.com/video/the-conductor/), [*King of Arms*](http://rashaadnewsome.com/video/king-of-arms/), [*Stop Playing in My Face*](http://rashaadnewsome.com/video/stop-playing-in-my-face/)
 * Jacolby Satterwaite [*Reifying Desire Three*](https://vimeo.com/44403442), 2012
 
-
-
-
 #### ***Digital aesthetics***
 
 * Jacob Ciocci [*Take Me*](https://vimeo.com/69783191), [*Tube Monster*](https://vimeo.com/126709244)
@@ -51,6 +48,12 @@ Interactive Art<br>
 
 * Terence Broad [*Bladerunner - Autoencoded*](https://medium.com/@Terrybroad/autoencoding-blade-runner-88941213abbe), 2016
 * Pascal Dombis [*Post-Digital Lines*](https://www.youtube.com/watch?v=73_4c--8CHA), 2012
+
+#### ***Narrative, Metaphor, and Performance***
+* Jillian Mayer, [Mega Mega Upload](https://www.youtube.com/watch?v=8dUVz5YOnIQ), 2013
+* Sofía Córdova [Dawn Chorus, Excerpt](https://vimeo.com/219450563), 2017
+* Kate Rhoades, [Required Skimming](https://www.youtube.com/watch?v=Oj7wGL5OAhA&feature=youtu.be&t=208), 2014
+* Wong Ping [《憂鬱鼻 An Emo Nose》](https://vimeo.com/129427483), 2015
 
 <br>
 
