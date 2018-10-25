@@ -105,22 +105,24 @@
 
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_22.png)
+<img src="images/NetArt_Setup_22.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_23.png)
+<img src="images/NetArt_Setup_23.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_24.png)
+<img src="images/NetArt_Setup_24.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_25.png)
+<img src="images/NetArt_Setup_25.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_26.png)
+<img src="images/NetArt_Setup_26.png">
 <br>
 <br>
+
 # Now add a second page and link it to the homepage
+
 ![Net Art Website Setup](images/NetArt_Setup_27.png)
 <br>
 <br>
