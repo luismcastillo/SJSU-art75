@@ -54,8 +54,6 @@
 ![Net Art Website Setup](images/NetArt_Setup_12.png)
 <br>
 <br>
-<br>
-<br>
 
 # Step 2 Clone your GitHub repository to your computer
 
@@ -74,8 +72,6 @@
 ![Net Art Website Setup](images/NetArt_Setup_17.png)
 <br>
 <br>
-<br>
-<br>
 
 # Step 3 Create new files for your site in Atom
 
@@ -90,8 +86,6 @@
 <br>
 
 ![Net Art Website Setup](images/NetArt_Setup_21.png)
-<br>
-<br>
 <br>
 <br>
 #### **Code to copy to index.html:**
@@ -111,8 +105,6 @@
 
 <br>
 <br>
-<br>
-<br>
 ![Net Art Website Setup](images/NetArt_Setup_22.png)
 <br>
 <br>
@@ -126,8 +118,6 @@
 <br>
 <br>
 ![Net Art Website Setup](images/NetArt_Setup_26.png)
-<br>
-<br>
 <br>
 <br>
 # Now add a second page and link it to the homepage
@@ -161,8 +151,6 @@
 ![Net Art Website Setup](images/NetArt_Setup_36.png)
 <br>
 <br>
-<br>
-<br>
 
 # And now add a third page and link it to the homepage and second page
 
@@ -191,8 +179,6 @@
 <br>
 <br>
 ![Net Art Website Setup](images/NetArt_Setup_45.png)
-<br>
-<br>
 <br>
 <br>
 # And now add a stylesheet to make it look better
@@ -234,8 +220,6 @@
 <br>
 <br>
 ![Net Art Website Setup](images/NetArt_Setup_49.png)
-<br>
-<br>
 <br>
 <br>
 
