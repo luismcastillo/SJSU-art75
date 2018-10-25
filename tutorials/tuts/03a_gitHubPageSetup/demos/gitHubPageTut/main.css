@@ -5,8 +5,7 @@ Note difference in declaring margin and padding values for body and h1.
 2 values: [padding top and bottom] [padding right and left]
 4 values: [top] [right] [bottom] [left]
 
-By setting the right and left values to auto in the body margin,
-the body will be centered on the page
+By setting the right and left values to auto in the body margin, the body will be centered on the page
 
 */
 
