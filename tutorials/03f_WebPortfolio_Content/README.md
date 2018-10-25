@@ -144,40 +144,40 @@ You can embed your video and sound pieces directly from vimeo, youtube, and soun
 **First, prepare your html document for the code:**
 <br>
 <br>
-![Embed Media](images/Embed_10.png)
+<img src="images/Embed_10.png">
 <br>
 <br>
-![Embed Media](images/Embed_11.png)
+<img src="images/Embed_11.png">
 <br>
 <br>
-![Embed Media](images/Embed_7.png)
+<img src="images/Embed_7.png">
 <br>
 <br>
-![Embed Media](images/Embed_8.png)
+<img src="images/Embed_8.png">
 <br>
 <br>
-![Embed Media](images/Embed_9.png)
+<img src="images/Embed_9.png">
 <br>
 <br>
-![Embed Media](images/Embed_12.png)
+<img src="images/Embed_12.png">
 <br>
 <br>
-![Embed Media](images/Embed_13.png)
+<img src="images/Embed_13.png">
 <br>
 <br>
-![Embed Media](images/Embed_14.png)
+<img src="images/Embed_14.png">
 <br>
 <br>
-![Embed Media](images/Embed_15.png)
+<img src="images/Embed_15.png">
 <br>
 <br>
-![Embed Media](images/Embed_16.png)
+<img src="images/Embed_16.png">
 <br>
 <br>
-![Embed Media](images/Embed_17.png)
+<img src="images/Embed_17.png">
 <br>
 <br>
-![Embed Media](images/Embed_18.png)
+<img src="images/Embed_18.png">
 <br>
 <br>
 
