@@ -18,40 +18,40 @@
 ## **Note:** GitHub only allows one 'github.io' website page per account, and you already have one. However, you can add other separate websites if you do not include 'github.io' on your repository name, and you enable GitHub pages.
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_1.png)
+<img src="images/NetArt_Setup_1.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_2.png)
+<img src="images/NetArt_Setup_2.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_3.png)
+<img src="images/NetArt_Setup_3.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_4.png)
+<img src="images/NetArt_Setup_4.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_5.png)
+<img src="images/NetArt_Setup_5.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_6.png)
+<img src="images/NetArt_Setup_6.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_7.png)
+<img src="images/NetArt_Setup_7.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_8.png)
+<img src="images/NetArt_Setup_8.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_9.png)
+<img src="images/NetArt_Setup_9.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_10.png)
+<img src="images/NetArt_Setup_10.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_11.png)
+<img src="images/NetArt_Setup_11.png">
 <br>
 <br>
-![Net Art Website Setup](images/NetArt_Setup_12.png)
+<img src="images/NetArt_Setup_12.png">
 <br>
 <br>
 
