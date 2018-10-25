@@ -8,7 +8,7 @@
 *Recommended tutorials:*
 
 * [W3 Schools](https://www.w3schools.com/) and [Mozilla Developers Network](https://developer.mozilla.org/en-US/docs/Learn/HTML) are great references with non-video tutorials
-* [Kadenze Tutorial: Web Coding Fundamentals](https://www.kadenze.com/courses/web-coding-fundamentals-for-artists/info): This course is designed specifically for artists. If you create a Kadenze account, you can audit the course for free, only caveat is that you have to time it with the start of the course... Watch Session 1: Intro to the Web Landscape for familiarity with HTML/CSS
+* [Kadenze Tutorial: Web Coding Fundamentals](https://www.kadenze.com/courses/web-coding-fundamentals-for-artists/info): This course is designed specifically for artists. If you create a Kadenze account, you can audit the course for free, only caveat is that you have to time it with the start of the course...
 
 
 #### On this page:
@@ -17,6 +17,7 @@
 2. [Custom Domains](#-custom-domains)
 3. [HTTPS Setting up secure SSL](#-https-setting-up-secure-ssl)
 4. [Using frameworks and templates for your CSS styling](#-using-frameworks-and-templates-for-your-css-styling)
+5. [Search Engine Optimization (SEO)](#-search-engine-optimization)
 
 
 
@@ -120,3 +121,17 @@ Tutorials:
 
 <br>
 <br>
+
+# ▼△▼△▼ Search Engine Optimization
+
+Okay, so you have a website, but how do people find it?
+
+Search engines like Google scan the internet with bots to index all the websites and determine which ones show up in your search results.
+
+So you want to make sure you give them the right descriptions and keywords!
+
+In addition to the <title> tag, which shows up in the browser tab, you can also add a description and keywords. Insert this code into your HTML header, and read over this [PDF on how to optimize your HTML tags for bots](http://www.theinternetofbots.com/pdf/Search%20Engine%20Optimization%20-%20The%20Internet%20of%20Bots.pdf).
+
+
+    <meta name="description" content="description in 50–300 characters (letters).">
+    <meta name="keywords" content="artist, your name, your nick name, digital media art, all the keywords">
