@@ -25,13 +25,13 @@
 
 [![Net Art](images/Art74_NetArt.006.jpeg)](http://jodi.org/)
 
-[![Net Art](images/Art74_NetArt.007.jpeg)](jodi.org/archive/)
+[![Net Art](images/Art74_NetArt.007.jpeg)](http://jodi.org/archive/)
 
 [![Net Art](images/Art74_NetArt.008.jpeg)](http://archive.rhizome.org/anthology/automatic-rain.html)
 
 [![Net Art](images/Art74_NetArt.009.jpeg)](http://www.irational.org/heath/_readme.html)
 
-[![Net Art](images/Art74_NetArt.010.jpeg)](www.teleportacia.org/war/)
+[![Net Art](images/Art74_NetArt.010.jpeg)](http://www.teleportacia.org/war/)
 
 [![Net Art](images/Art74_NetArt.011.jpeg)](http://www.paperrad.org/newindex.html)
 
