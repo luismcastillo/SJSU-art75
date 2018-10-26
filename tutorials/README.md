@@ -33,7 +33,6 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Intro to the internet! HTML/CSS](tuts/03a_introToInternet)
 * [Creating a GitHub personal page to host your portfolio](tuts/03a_gitHubPageSetup)
 * [Using GitHub Desktop and Atom to write code and sync your files](tuts/03b_gitHubDesktop-atom)
-* [Using GitHub Desktop and Atom to write code and sync your files](tuts/03c_gitHubDesktop-atom)
 * [More CSS/HTML: Favicons, custom domains, SSL, and libraries to help](tuts/03d_moreHTMLCSS)
 * [Portfolio Website Content Guides](tuts/03e_WebPortfolio_Content)
 
