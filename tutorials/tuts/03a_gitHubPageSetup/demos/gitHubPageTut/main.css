@@ -5,7 +5,8 @@ Note difference in declaring margin and padding values for body and h1.
 2 values: [padding top and bottom] [padding right and left]
 4 values: [top] [right] [bottom] [left]
 
-By setting the right and left values to auto in the body margin, the body will be centered on the page
+By setting the right and left values to auto in the body margin,
+the body will be centered on the page
 
 */
 
@@ -24,19 +25,18 @@ h1 {
 }
 
 /* This changes color and removes default underline in links  */
-
 a {
-  color: #69CBBB;
-  text-decoration: none;
+color: #69CBBB;
+text-decoration: none;
 }
 
 /* Centers images */
-
 img {
   display: block;
   margin: 0px auto;
   width: 100%;
 }
+
 
 /* When you put a period in front of a CSS declaration, it indicates you are
 creating a new class. We can apply this to div elements to create different
@@ -59,7 +59,9 @@ portfolio entries */
   height: auto;
 }
 
-.embed-container iframe, .embed-container object, .embed-container embed {
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
   position: absolute;
   top: 0;
   left: 0;
