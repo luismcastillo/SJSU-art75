@@ -67,7 +67,7 @@ The first page you want the website to hit MUST be called index.html inside the 
 * [W3 Schools](https://www.w3schools.com/)- vast resource of code, exercises, and how-tos. Most everything you're wondering about can be answered here.
   * They also have step-by-step interactive tutorials:
     * [Intro to HTML](https://www.w3schools.com/html/html_intro.asp)
-    * [Intro to CSS](https://www.w3schools.com/css/css_intro.asp)
+    * [Intro to CSS](https://www.w3schools.com/css/css_intro.asp1)
 * [HTML Dog](http://www.htmldog.com/)- simple, direct explanations and tutorials of html, css, and javascript
 * [Mozilla Developers Network](https://developer.mozilla.org/en-US/docs/Learn/HTML)- more direct and helpful tutorials for HTML, CSS, and Javascript
 * [CSS Tricks](https://css-tricks.com/the-difference-between-id-and-class/)- Still having a hard time with IDs and classes? Look over this.
