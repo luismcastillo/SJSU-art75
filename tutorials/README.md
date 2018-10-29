@@ -49,7 +49,7 @@ Check out links to web tutorials on the [resources page](../resources).
 **Net Art Project**
 * [Creating a GitHub page to host your net art/project 3](tuts/04a_netArt_repositorySetup)
 * [See demos and download code](https://art75.github.io/)
-* [Interactive Video with P5](tuts/04b_interactiveVideoWithP5)
+* [Interactive Video with P5](tuts/05h_interactiveVideoWithP5)
 
 **Javascript and p5- Creating Interactivity**
 * [p5 pt 1: Getting Started with p5](tuts/05a_p5_1_gettingStarted)

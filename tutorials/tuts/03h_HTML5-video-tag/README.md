@@ -39,6 +39,17 @@ You can export the .mp4 right out of premiere. In exports, select H264 (which is
 
 And there is your .mp4!
 
+**Tip:** If your video exports with an aspect ratio that is different from your original, then select 'Match Source' in the video settings:
+
+![premiere export menu](images/VideoResize_1.png)
+
+![premiere export menu](images/VideoResize_3.png)
+
+Also make sure that the Audio setting is set to AAC:
+
+![premiere export menu](images/VideoResize_2.png)
+
+
 #### 2) .webM
 To get your .webM file it is a little trickier. You can either download a plugin for Premiere (this is free to do, YouTube tutorial [here](https://www.youtube.com/watch?v=L7a5r8lbo0A) should work), or you can download a free video converter like [Miro](http://www.mirovideoconverter.com/.)
 
