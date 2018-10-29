@@ -29,7 +29,9 @@ Codecs are types of video compression, ie .mp4, .mov, .webM...
 
 [Not all browsers and mobile devices](https://www.w3schools.com/tags/tag_video.asp) can play all video codecs, so you should **always have two files for each video, an .mp4 (H264) and a .webM.**
 
-#### 1) .mp4
+---
+
+### 1) .mp4
 You can export the .mp4 right out of premiere. In exports, select H264 (which is an mp4 codec), then open up **the presets drop-down menu** to find "mobile device 480p wide".
 
 (You can try out other compression sizes too, just check out the file sizes - estimated at the bottom - and try to keep them as small as possible.
@@ -50,8 +52,10 @@ Also make sure that the Audio setting is set to AAC:
 
 <br>
 
-#### 2) .webM
-To get your .webM file it is a little trickier. You can either download a plugin for Premiere (this is free to do, YouTube tutorial [here](https://www.youtube.com/watch?v=L7a5r8lbo0A) should work), or you can download a free video converter like [Miro](http://www.mirovideoconverter.com/.)
+----
+
+### 2) .webM
+You can't export a .webM direct from Premiere. You can either download a plugin for Premiere (this is free to do, YouTube tutorial [here](https://www.youtube.com/watch?v=L7a5r8lbo0A) should work), or you can download a free video converter like [Miro](http://www.mirovideoconverter.com/.)
 
 If using Miro, you drag your video into the top, then select webM from the dropdown.
 
