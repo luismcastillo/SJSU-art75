@@ -53,3 +53,52 @@ If using Miro, you drag your video into the top, then select webM from the dropd
 
 [W3 Documentation](https://www.w3schools.com/tags/tag_video.asp) for the video tag
 [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) for the video tag
+
+---> Check out the live demo on the [course website](https://art75.github.io/)
+---> Download sample code for the demo [here](https://github.com/art75/art75.github.io/tree/master/codeDownloads)
+
+### HTML <video> tag
+Here is the breakdown of the video tag:
+
+![HTML Video Tag](images/html-video-tag.png)
+
+Note there are a few attributes listed in the opening tag. If you list them, they are enabled
+* controls: this displays the play button
+* loop: loops the video
+* autoplay: autoplays on page load.
+  * *In Chrome you need to have the video muted for it to autoplay*
+* muted: mutes video
+
+
+
+### CSS to style videos
+
+You can style the video using the "video" selector in your css
+
+
+    video {
+      margin-top: 50px;
+    }
+
+
+
+You can also add a class to your video tag, and style each video differently.
+
+In the [demo](https://art75.github.io/net-art/templates/HTML_videoTag/), the video is given the class "snake-vid".
+
+    <video class="snake-vid" width="400" controls loop>
+	  <source
+			src="assets/snake.mp4"
+			type="video/mp4">
+		<source
+			src="assets/snake.webm"
+			type="video/webm">
+		Your browser doesn't support HTML5 video tag.
+	</video>
+
+Which is referenced in the css:
+
+    .snake-vid {
+      background-color: #96add3;
+      padding: 50px;
+    }
