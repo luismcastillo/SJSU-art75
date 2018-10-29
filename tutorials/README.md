@@ -29,13 +29,22 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Lighting and Green Screens](tuts/02f_lightingAndGreenScreen)
 * [Convention Examples](tuts/02e_ConventionExamples)
 
+**Web Development Basics**
+* [HTML/CSS Basics](tuts/03a_introToInternet)
+  * [HTML Tags, Links, and Images](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03a_introToInternet#html-basics)
+  * [CSS Basics](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03a_introToInternet#-css-basics)
+  * [Tips and Tricks](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03a_introToInternet#-tips-and-tricks-and-bells-and-whistles)
+* [Embedding images](tuts/03f_embeddingImages)
+* [Embedding video from Vimeo and Youtube](tuts/03g_embeddingVideo_vimeoYouTube)
+* [Using the HTML Video Tag to host video on your site](tuts/03h_HTML5-video-tag)
+* [More CSS/HTML: Favicons, custom domains, SEO, and libraries to help](tuts/03d_moreHTMLCSS)
+
+
 **Portfolio Website**
-* [Intro to the internet! HTML/CSS](tuts/03a_introToInternet)
 * [Creating a GitHub personal page to host your portfolio](tuts/03a_gitHubPageSetup)
 * [Using GitHub Desktop and Atom to write code and sync your files](tuts/03b_gitHubDesktop-atom)
-* [More CSS/HTML: Favicons, custom domains, SSL, SEO, and libraries to help](tuts/03d_moreHTMLCSS)
 * [Portfolio Website Content Guides](tuts/03e_WebPortfolio_Content)
-
+  * [Artist Statements & Descriptions](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03e_WebPortfolio_Content#artist-statements)
 
 **Net Art Project**
 * [Creating a GitHub page to host your net art/project 3](tuts/04a_netArt_repositorySetup)
