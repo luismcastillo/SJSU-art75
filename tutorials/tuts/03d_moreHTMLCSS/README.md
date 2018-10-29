@@ -15,9 +15,8 @@
 
 1. [Adding favicons](#-favicons)
 2. [Custom Domains](#-custom-domains)
-3. [HTTPS Setting up secure SSL](#-https-setting-up-secure-ssl)
-4. [Using frameworks and templates for your CSS styling](#-using-frameworks-and-templates-for-your-css-styling)
-5. [Search Engine Optimization (SEO)](#-search-engine-optimization)
+3. [Using frameworks and templates for your CSS styling](#-using-frameworks-and-templates-for-your-css-styling)
+4. [Search Engine Optimization (SEO)](#-search-engine-optimization)
 
 
 
@@ -60,12 +59,6 @@ Once you have purchased your custom domain, connect the domain to your GitHub pa
 <br>
 <br>
 
-# ▼△▼△▼ HTTPS Setting up secure SSL
-
-Good news! As of May 1st 2018, GitHub added HTTPS support for custom domains using GitHub pages! [Here's a tutorial](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/) to set it up.
-
-<br>
-<br>
 
 # ▼△▼△▼ Using frameworks and templates for your CSS styling
 
@@ -83,7 +76,6 @@ You can find a lot of sample code on [W3 schools](https://www.w3schools.com/css/
 
 *Warning*: Sometimes customizing templates can get sloppy if you have conflicting CSS rules.
 
-Many of these templates use [Sass](https://sass-lang.com/) as a preprocessor, so you might want to familiarize yourself with Sass if you go deep into customizing a template.
 
 ### Twitter Bootstrap
 
