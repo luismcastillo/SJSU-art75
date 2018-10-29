@@ -279,7 +279,7 @@ You can add more style to your links and change the color on hover and after the
 Create a dropdown menu for different navigation options, or any other way you can use them!  For more link styling options- [check out this page.](https://www.w3schools.com/howto/howto_css_dropdown.asp)
 
 
-        #### **Code to copy to your HTML document:**
+#### **Code to copy to your HTML document:**
 
         <div class="dropdown">
         <button class="dropbtn">Where Do We Go Now</button>
@@ -293,7 +293,7 @@ Create a dropdown menu for different navigation options, or any other way you ca
 **The code above goes in your HTML document wherever you would like your dropdown menu to go. However, it won't work without some serious CSS:**
 
 
-        #### **Code to copy to your CSS document at the end of the page:**
+#### **Code to copy to your CSS document at the end of the page:**
 
         /* This is the style for the dropdown menu!*/
 
