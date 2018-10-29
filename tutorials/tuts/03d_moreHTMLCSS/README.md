@@ -1,14 +1,10 @@
 
 # More HTML/CSS 👏👾🤓
-## Favicons, Custom Domains, SSL, & libraries to help
+## Favicons, Custom Domains, libraries, and Search Engine Optimization (SEO)
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br />
 
-*Recommended tutorials:*
-
-* [W3 Schools](https://www.w3schools.com/) and [Mozilla Developers Network](https://developer.mozilla.org/en-US/docs/Learn/HTML) are great references with non-video tutorials
-* [Kadenze Tutorial: Web Coding Fundamentals](https://www.kadenze.com/courses/web-coding-fundamentals-for-artists/info): This course is designed specifically for artists. If you create a Kadenze account, you can audit the course for free, only caveat is that you have to time it with the start of the course...
 
 
 #### On this page:
