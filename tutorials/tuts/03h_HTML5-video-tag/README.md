@@ -21,7 +21,8 @@ The advantage to using the HTML5 video tag is that you ***will not have the Vime
 
 The downside is that you have to host the videos on your website, which means ***file compression is VERY IMPORTANT***.
 
-
+<br>
+<br>
 
 # ▼△▼△▼ Prepping Video Files
 
