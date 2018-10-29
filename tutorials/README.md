@@ -31,9 +31,7 @@ Check out links to web tutorials on the [resources page](../resources).
 
 **Web Development Basics**
 * [HTML/CSS Basics](tuts/03a_introToInternet)
-  * [HTML Tags, Links, and Images](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03a_introToInternet#html-basics)
-  * [CSS Basics](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03a_introToInternet#-css-basics)
-  * [Tips and Tricks](https://github.com/art75/SJSU-art75/tree/master/tutorials/tuts/03a_introToInternet#-tips-and-tricks-and-bells-and-whistles)
+  * So many tips! Check out index at top!
 * [Embedding images](tuts/03f_embeddingImages)
 * [Embedding video from Vimeo and Youtube](tuts/03g_embeddingVideo_vimeoYouTube)
 * [Using the HTML Video Tag to host video on your site](tuts/03h_HTML5-video-tag)

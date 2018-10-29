@@ -42,13 +42,16 @@ After you resize, you can further compress jpgs and pngs using an online compres
 
 # HTML Image Tag
 
-### <img> tag
+### **The image tag**
 
-The img tage is pretty straightforward! Note it strangely does not need a closing tag at the end. (no need for </img>)
+The img tag — <img> — is pretty straightforward! Unlike other HTML tags, it does not need a closing tag at the end.
 
     <img src="pathToImage.jpg" alt="Always add alternative text">
 
+<br>
 * [W3 schools documentation on the image tag](https://www.w3schools.com/tags/tag_img.asp)
+
+<br>
 
 ### **HTML width and code in the image tag:**
 

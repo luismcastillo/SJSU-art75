@@ -5,7 +5,6 @@
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
 <br>
 
-(work in progress)
 
 #### **On this page:**
 1. [What is the HTML Video Tag?](#-what-is-the-html-video-tag)
@@ -16,9 +15,9 @@
 
 # ▼△▼△▼ What is the HTML Video Tag
 
-Note, this is different than using Vimeo or YouTube to host our video in an iframe!
+This is different than using Vimeo or YouTube to host our video in an iframe! You are playing the video file *off your site*, not through YouTube or Vimeo.
 
-The advantage to using the HTML5 video tag is that you ***will not have the Vimeo / YouTube logos***.
+The advantage to using the HTML5 video tag is that you ***will not have the Vimeo / YouTube logos***, and have a little more control.
 
 The downside is that you have to host the videos on your website, which means ***file compression is VERY IMPORTANT***.
 
@@ -49,6 +48,7 @@ Also make sure that the Audio setting is set to AAC:
 
 ![premiere export menu](images/VideoResize_2.png)
 
+<br>
 
 #### 2) .webM
 To get your .webM file it is a little trickier. You can either download a plugin for Premiere (this is free to do, YouTube tutorial [here](https://www.youtube.com/watch?v=L7a5r8lbo0A) should work), or you can download a free video converter like [Miro](http://www.mirovideoconverter.com/.)

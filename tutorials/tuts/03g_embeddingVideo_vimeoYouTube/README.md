@@ -11,12 +11,13 @@
 
 # What is an iframe tag?
 
-An iframe is an HTML tag that allows you to embed content from another website. When you display videos in <iframe> code copied from YouTube/Vimeo, you are creating a little window on your site to the videos hosted on YouTube/Vimeo. 
+An iframe is an HTML tag that allows you to embed content from another website. When you display videos in <iframe> embed code copied from YouTube/Vimeo, you are creating a window on your site that displays content to YouTube/Vimeo.
 
-This is great because you can have large files hosted by their servers, but you will have their logo unless you upgrade to a paid account.
+This is great because you can have large files hosted by their servers, but you will have their logo displayed unless you upgrade to a paid account.
 
 # Embedding Videos
-You can embed your video directly from vimeo or youtube using the HTML iframe tag. Here is a step by step guide:
+
+Step by step guide:
 
 ### Video from Vimeo and YouTube
 ![Embed Media](images/Embed_1.png)
