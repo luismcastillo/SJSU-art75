@@ -1,5 +1,5 @@
-# Interactive Video with P5
-### How to set up a new GitHub repository for your Net Art / Project 3 and enable GitHub pages to host it online
+# HTML5 Video Tag
+
 
 
  ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
@@ -8,24 +8,27 @@
 (work in progress)
 
 #### **On this page:**
-1. [HTML5 Video](#-html5-video)
+1. [What is the HTML Video Tag?](#-what-is-the-html-video-tag)
 2. [Prepping Video Files](#-prepping-video-files)
-3. More to come....
+3. [Using the Video Tag](#-using-the-video-tag)
 
 <br>
 
-# ▼△▼△▼ HTML5 Video
+# ▼△▼△▼ What is the HTML Video Tag
 
-Note, we are not using Vimeo or YouTube to host our video in an iframe!
+Note, this is different than using Vimeo or YouTube to host our video in an iframe!
 
-Using P5, we are playing video directly from our browser. The plus side is that we have a lot more control. The down side is that we don't have an internet giant to do the heavy lifting, so we have to keep our files small and maneagable.
+The advantage to using the HTML5 video tag is that you ***will not have the Vimeo / YouTube logos***.
+
+The downside is that you have to host the videos on your website, which means ***file compression is VERY IMPORTANT***.
+
 
 
 # ▼△▼△▼ Prepping Video Files
 
 Codecs are types of video compression, ie .mp4, .mov, .webM...
 
-[Not all browsers and mobile devices](https://www.w3schools.com/tags/tag_video.asp) can play all video codecs, so it is a good idea to always have two files for each video, an .mp4 (H264) and a .webM.
+[Not all browsers and mobile devices](https://www.w3schools.com/tags/tag_video.asp) can play all video codecs, so you should **always have two files for each video, an .mp4 (H264) and a .webM.**
 
 #### 1) .mp4
 You can export the .mp4 right out of premiere. In exports, select H264 (which is an mp4 codec), then open up **the presets drop-down menu** to find "mobile device 480p wide".
@@ -42,3 +45,11 @@ To get your .webM file it is a little trickier. You can either download a plugin
 If using Miro, you drag your video into the top, then select webM from the dropdown.
 
 ![Miro Video Converter](images/miro_1.png)
+
+<br>
+<br>
+
+# ▼△▼△▼ Using the Video Tag
+
+[W3 Documentation](https://www.w3schools.com/tags/tag_video.asp) for the video tag
+[MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) for the video tag
