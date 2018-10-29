@@ -28,6 +28,7 @@
   *  [Background Color](#background-color)
   *  [Marquee](#marquee)
   *  [Link Color and Hover](#link-color-and-hover)
+  *  [Dropdown Menu](#dropdown-menu)
   *  [What Else?](#what-else)
 
 
@@ -253,7 +254,7 @@ It is technically obsolete because developers find it annoying, but if you have 
     <marquee>This is a marquee</marquee>
 
 # Link Color and Hover
-You can add more style to your links and change the color on hover and after they've bene visited, by adding more link 'a' selectors to your stylesheet.  For more link styling options- [check out this page.](https://www.w3schools.com/css/css_link.asp)
+You can add more style to your links and change the color on hover and after they've been visited, by adding more link 'a' selectors to your stylesheet.  For more link styling options- [check out this page.](https://www.w3schools.com/css/css_link.asp)
 
 
 #### **Code to copy to your CSS document below your first a selector:**
@@ -272,6 +273,69 @@ You can add more style to your links and change the color on hover and after the
         a:active {
           color: blue;
         }
+
+# Dropdown Menu
+
+Create a dropdown menu for different navigation options, or any other way you can use them!  For more link styling options- [check out this page.](https://www.w3schools.com/howto/howto_css_dropdown.asp)
+
+
+        #### **Code to copy to your HTML document:**
+
+        <div class="dropdown">
+        <button class="dropbtn">Where Do We Go Now</button>
+        <div class="dropdown-content">
+        <a href="link here">Option 1</a>
+        <a href="link here">Option 2</a>
+        <a href="link here">Option 3</a>
+        </div>
+        </div>
+
+**The code above goes in your HTML document wherever you would like your dropdown menu to go. However, it won't work without some serious CSS:**
+
+
+        #### **Code to copy to your CSS document at the end of the page:**
+
+        /* This is the style for the dropdown menu!*/
+
+        /* This is the style for top title button: */
+        .dropbtn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 25px;
+            font-size: 45px;
+            border: none;
+          }
+
+          /* This is the style for the dropdown menu position*/
+            .dropdown {
+              position: relative;
+              display: inline-block;
+            }
+
+            /* This is the style for the dropdown menu content options*/
+            .dropdown-content {
+              display: none;
+              position: absolute;
+              background-color: #f1f1f1;
+              min-width: 200px;
+              z-index: 1;
+            }
+
+            /* This is the style for the dropdown menu content text*/
+            .dropdown-content a {
+              color: black;
+              padding: 12px 16px;
+              font-size: 45px;
+              text-decoration: none;
+              display: block;
+            }
+
+            /* This is the style for the dropdown menu hover colors*/
+            .dropdown-content a:hover {background-color: #ddd;}
+
+            .dropdown:hover .dropdown-content {display: block;}
+
+            .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 # Lifetime Tip: Research! And learn to learn on your own.
 ![CSS](images/Art75_HTMLCSSIntro.051.png)
