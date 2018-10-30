@@ -8,7 +8,7 @@
 #### On this page:
 1. [**Things to Always Remember**](#-things-to-always-remember)
 2. [**Resources**](#-resources)
-4. [**What is HTML CSS JS?**](#-what-is-html-css-js?)
+4. [**What is HTML CSS JS?**](#-what-is-html-css-js)
 5. [**HTML Basics**](#-html-basics)
   - [Document Setup](#document-setup)
   - [Tags](#tags)
@@ -82,7 +82,7 @@ The first page you want the website to hit MUST be called index.html inside the 
 * [Google Fonts](https://fonts.google.com/)
 * [CSS Font Stack](https://www.cssfontstack.com/)
 
-# ▼△▼△▼ What is HTML CSS JS?
+# ▼△▼△▼ What is HTML CSS JS
 
 ### HTML= Hyper Text Markup Language
 ### CSS= Cascading Style Sheets
@@ -101,7 +101,7 @@ The first page you want the website to hit MUST be called index.html inside the 
  <br>
  <br>
 
-# HTML basics
+# ▼△▼△▼ HTML basics
 # Document Setup
 
 ![html](images/HTMLCSS_Review.016.jpeg)
