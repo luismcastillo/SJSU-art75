@@ -26,22 +26,22 @@ Download the full syllabi for [Section 1 here](resources/Syllabus_Art75_section1
 | 8 | Oct 9 | Intro to New Media Art and Video <br>Tutorial: Intro to coding with P5  <br> In-Class Exercise 4 - P5 variables: Make something move in P5 and add sketch to portfolio website <br> Lab- Project 2 + P5  <br><br> **Due:** Project 2 progress  
 | 8 | Oct 11 | New Media Art continued <br> P5 continued: In-Class Exercises 5 & 6: P5 display image and if statements & loops <br>Add sketch to portfolio website<br>Lab- Project 2 + P5 + websites  <br><br> **Due at end of class:** In-Class Exercise 4 - P5 sketch on website |
 | 9 | Oct 16 | **Project 2 Critique**  <br><br> **Due:** Project 2<br>|
-| 9 | Oct 18 | **Project 2 Critique (cont)** <br> Introduction to New Media Art and [Project 3: Critical Interaction](https://github.com/art75/SJSU-art75#project-3-critical-interactivity)<br><br> **Reading:** TBA |
-| 10 | Oct 23 | New Media Art continued <br> Tutorial: p5 (cont) <br> In-Class Exercises 5 & 6 continued: P5 loops   <br><br> **Due by end of class:**  In-Class Exercise 5 & 6 - P5 image/if-statements & loops <br> **Due:** Reading Response |
-| 10 | Oct 25 | Tutorial: p5 Functions <br> In-Class Exercise 7: P5 Interaction + Functions, Controlling Video in P5 with mouse and key press <br> Lab and Individual meetings on Project 3 <br><br> **Due:** Project 3 ideas <br> **Due by end of class:** In-Class Exercises 7 - P5 interactions |
-| 11 | Oct 30 | New Media and Video Art Overview  <br> Introduction to [Final Project: Build on one of the first 3 projects](https://github.com/art75/SJSU-art75#final-project)<br>Project 3 + P5 exercise Lab  <br><br>  |
-| 11 | Nov 1 | Demo: Integrating p5 with arduino sensors <br> Project 3 + P5 exercise Lab  <br><br> |
+| 9 | Oct 18 | **Project 2 Critique (cont)** <br> Introduction to New Media Art and [Project 3: Critical Interaction](https://github.com/art75/SJSU-art75#project-3-critical-interactivity)<br><br>  |
+| 10 | Oct 23 | Project 2 Critique contd <br>New Media Art and Video continued <br><br> **Due:** Early Internet Memory |
+| 10 | Oct 25 | Narrative, Metaphor, and Video <br> Lab and Individual meetings on Project 3 <br><br> **Due:** Project 3 ideas <br> |
+| 11 | Oct 30 | Project 3 + HTML/CSS Lab  <br>Lab and Individual meetings on Project 3 <br><br> **Due:** Project 3 progress<br>  |
+| 11 | Nov 1 | Demo: Net Art bells and whistles <br>Project 3 + HTML/CSS exercise Lab <br> Introduction to [Final Project: Build on one of the first 3 projects](https://github.com/art75/SJSU-art75#final-project)<br><br> **Due:** Project 3 progress<br>|
 | 12 | Nov 6 | **Project 3 Critique** <br><br> **Due:** Project 3 Critical Interaction |
-| 12 | Nov 8 | **Project 3 critique continued**<br> Final Project Lab and one-on-one meetings on Final Projects  <br><br> **Due:** Final Project Ideas  |
-| 13 | Nov 13 | Amy M. Ho visiting artist lecture  <br> Plan Class Show Installation + Installation practices <br> Final project Lab <br><br> **Due:** Final Project progress  |
-| 13 | Nov 15 | Installation Practices (cont)  <br> Plan Class Show Installation (cont)  <br> Final project Lab <br> <br> **Due:** Final Projects in progress  |
-| 14 | Nov 20 | In progress critique on final projects <br><br> **Assignment:** Peer Research: Based on their work, what would you recommend they read, see, experience, follow? Why?  |
+| 12 | Nov 8 | **Project 3 critique continued**<br> Final Projects Review <br><br> Peer Research: Based on their work and final project ideas, what would you recommend your peers read, see, experience, follow? Why? <br><br> **Due:** Final Project Ideas |  |
+| 13 | Nov 13 | Amy M. Ho visiting artist lecture  <br>Final project Lab + One-on-One meetings<br><br> **Due:** Final Project progress  |
+| 13 | Nov 15 | Installation Practices (cont)  <br> Plan Class Show Installation  <br> Final project Lab <br> <br> **Due:** Final Projects in progress  |
+| 14 | Nov 20 | In progress critique on final projects <br><br>  |
 | 14 | Nov 22 | **Thanksgiving- NO CLASS** |
-| 15 | Nov 27 | Peer Research Presentations <br> Final Discussion: What is the future of New Media Art?<br> Lab – Final project + work on websites <br><br> **Due:** Peer Research presentations  |
-| 15 | Nov 29 | Peer Research Presentations (cont’d) <br>Lab – Final project + work on websites <br><br> **INSTALLATION WEEKEND:** BEGIN INSTALL of SHOW on FRIDAY Nov 30   |
+| 15 | Nov 27 | Critique final projects  <br><br> **Due:** Final Project  |
+| 15 | Nov 29 | Critique Final Projects <br> Plan for show <br><br> **INSTALLATION WEEKEND:** BEGIN INSTALL of SHOW on FRIDAY Nov 30   |
 | 16 | Dec 4 | **SHOW OPENS**   |
 | 16 | Dec 6 | Last day of class<br><br>**SHOW CLOSES:** Clean up/or Final Critique   |
-| 17 Final Exam | Dec 13  | Final review of student work & websites: 7:15am - 9:30am  |
+| 17 Final Exam | Dec 13  | **Final review of student work & websites on Thurs 12/13: 5:15- 7:30pm** |
 
 <br>
 
