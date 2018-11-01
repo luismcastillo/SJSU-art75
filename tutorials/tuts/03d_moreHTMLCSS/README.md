@@ -15,7 +15,7 @@
 4. [Search Engine Optimization (SEO)](#-search-engine-optimization)
 5. [Adjusting Color and Hex Codes](#adjusting-color-and-hex-codes)
 6. [Adjusting Fonts](#adjusting-fonts)
-7. [Change Link Hover Color](#change-link-color-and-hover-color)
+7. [Change Link Hover Color](#change-link-hover-color)
 
 
 
@@ -127,8 +127,10 @@ In addition to the <title> tag, which shows up in the browser tab, you can also 
     <meta name="description" content="description in 50–300 characters (letters).">
     <meta name="keywords" content="artist, your name, your nick name, digital media art, all the keywords">
 
+<br>
 
 # Adjusting Color and Hex Codes
+
 ### **Open your main.css page if it is not yet. We are going to make _minor_ adjustments. Reminder: Be Careful and move slowly in CSS!**
 
 ![Portfolio Buildout](images/Art74_Portfolio_Buildout.043.jpeg)
@@ -138,6 +140,8 @@ In addition to the <title> tag, which shows up in the browser tab, you can also 
 ![Portfolio Buildout](images/Art74_Portfolio_Buildout.045.jpeg)
 
 ![Portfolio Buildout](images/Art74_Portfolio_Buildout.046.jpeg)
+
+<br>
 
 # Adjusting Fonts
 
@@ -152,6 +156,8 @@ In addition to the <title> tag, which shows up in the browser tab, you can also 
 ![Portfolio Buildout](images/Art74_Portfolio_Buildout.055.jpeg)
 
 ![Portfolio Buildout](images/Art74_Portfolio_Buildout.056.jpeg)
+
+<br>
 
 # Change Link Hover Color
 You can add more style to your links and change the color on hover (when they are moused over), by adding more link 'a' selectors to your stylesheet.  For more link styling options- [check out this page.](https://www.w3schools.com/css/css_link.asp)
