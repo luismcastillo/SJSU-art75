@@ -35,6 +35,7 @@ Check out links to web tutorials on the [resources page](../resources).
 * [Embedding images](tuts/03f_embeddingImages)
 * [Embedding video from Vimeo and Youtube](tuts/03g_embeddingVideo_vimeoYouTube)
 * [Using the HTML Video Tag to host video on your site](tuts/03h_HTML5-video-tag)
+* [Creating GIFs from Video in Photoshop](tuts/03f_photoshopGifsFromVideo)
 * [More CSS/HTML: Favicons, custom domains, SEO, Fonts, Colors, Link Mouse-Over, and libraries to help](tuts/03d_moreHTMLCSS)
 
 
