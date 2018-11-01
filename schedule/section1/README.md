@@ -30,12 +30,12 @@ Download the full syllabi for [Section 1 here](resources/Syllabus_Art75_section1
 | 10 | Oct 23 | Project 2 Critique contd <br>New Media Art and Video continued <br><br> **Due:** Early Internet Memory |
 | 10 | Oct 25 | Narrative, Metaphor, and Video <br> Lab and Individual meetings on Project 3 <br><br> **Due:** Project 3 ideas <br> |
 | 11 | Oct 30 | Project 3 + HTML/CSS Lab  <br>Lab and Individual meetings on Project 3 <br><br> **Due:** Project 3 progress<br>  |
-| 11 | Nov 1 | Demo: Net Art bells and whistles <br>Project 3 + HTML/CSS exercise Lab <br> Introduction to [Final Project: Build on one of the first 3 projects](https://github.com/art75/SJSU-art75#final-project)<br><br> **Due:** Project 3 progress<br>|
-| 12 | Nov 6 | **Project 3 Critique** <br><br> **Due:** Project 3 Critical Interaction |
-| 12 | Nov 8 | **Project 3 critique continued**<br> Final Projects Review <br><br> Peer Research: Based on their work and final project ideas, what would you recommend your peers read, see, experience, follow? Why? <br><br> **Due:** Final Project Ideas |  |
-| 13 | Nov 13 | Amy M. Ho visiting artist lecture  <br>Final project Lab + One-on-One meetings<br><br> **Due:** Final Project progress  |
-| 13 | Nov 15 | Installation Practices  <br> Plan Class Show Installation  <br> Final project Lab <br> <br> **Due:** Final Projects in progress  |
-| 14 | Nov 20 | In progress critique on final projects <br><br>  |
+| 11 | Nov 1 | Demo: Net Art bells and whistles <br>Project 3 + HTML/CSS exercise Lab<br><br> **Due:** Project 3 progress<br>|
+| 12 | Nov 6 | Project 3 Lab<br> Intro to P5 and interactivity <br>Introduction to [Final Project: Build on one of the first 3 projects](https://github.com/art75/SJSU-art75#final-project)<br><br> <br> **Due:** Project 3 Critical Interaction |
+| 12 | Nov 8 | **Project 3 critique**<br><br>|
+| 13 | Nov 13 | Amy M. Ho visiting artist lecture  <br>Peer Research: Based on their work and final project ideas, what would you recommend your peers read, see, experience, follow? Why? <br>Final project Lab + One-on-One meetings<br><br> **Due:** Final Projects ideas and raw materials  |
+| 13 | Nov 15 | Installation Practices (cont)  <br> Plan Class Show Installation  <br> Final project Lab <br> <br> **Due:** Final Projects in progress  |
+| 14 | Nov 20 | In progress critique on final projects <br><br> **Due:** Final Projects in progress |
 | 14 | Nov 22 | **Thanksgiving- NO CLASS** |
 | 15 | Nov 27 | Critique final projects  <br><br> **Due:** Final Project  |
 | 15 | Nov 29 | Critique Final Projects <br> Plan for show <br><br> **INSTALLATION WEEKEND:** BEGIN INSTALL of SHOW on FRIDAY Nov 30   |
