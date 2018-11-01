@@ -34,7 +34,7 @@ Download the full syllabi for [Section 1 here](resources/Syllabus_Art75_section1
 | 12 | Nov 6 | **Project 3 Critique** <br><br> **Due:** Project 3 Critical Interaction |
 | 12 | Nov 8 | **Project 3 critique continued**<br> Final Projects Review <br><br> Peer Research: Based on their work and final project ideas, what would you recommend your peers read, see, experience, follow? Why? <br><br> **Due:** Final Project Ideas |  |
 | 13 | Nov 13 | Amy M. Ho visiting artist lecture  <br>Final project Lab + One-on-One meetings<br><br> **Due:** Final Project progress  |
-| 13 | Nov 15 | Installation Practices (cont)  <br> Plan Class Show Installation  <br> Final project Lab <br> <br> **Due:** Final Projects in progress  |
+| 13 | Nov 15 | Installation Practices  <br> Plan Class Show Installation  <br> Final project Lab <br> <br> **Due:** Final Projects in progress  |
 | 14 | Nov 20 | In progress critique on final projects <br><br>  |
 | 14 | Nov 22 | **Thanksgiving- NO CLASS** |
 | 15 | Nov 27 | Critique final projects  <br><br> **Due:** Final Project  |
